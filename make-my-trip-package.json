@@ -1,0 +1,3331 @@
+{
+	"packageDetails": [{
+		"id": 43529,
+		"name": "Serene Ladakh with Turtuk Excursion - Stay at Grand Dragon",
+		"packageType": "FIT",
+		"usp": "<p>Day excursion to the Pangong Lake | Explore the Sand Dunes at Nubra Valley | Drive through the world's highest motorable road at Khardung La Pass</p>",
+		"branch": "DOM",
+		"onlineBookable": true,
+		"ctaPackageOnlineBookable": false,
+		"dynamic": true,
+		"safe": false,
+		"storyEnabled": false,
+		"bundled": false,
+		"flightDetails": {
+			"included": true
+		},
+		"hotelDetails": {
+			"categories": [{
+				"hotels": [{
+					"id": 1,
+					"name": "The Grand Dragon Ladakh",
+					"starRating": "5",
+					"safe": true,
+					"rating": "4.5",
+					"cityName": "Leh",
+					"listingHotelMetadata": {
+						"propertyType": "Hotel",
+						"mmtAssured": true,
+						"suitabilityTags": []
+					}
+				}, {
+					"id": 2,
+					"name": "Desert Himalaya Resort",
+					"starRating": "3",
+					"safe": false,
+					"rating": "4.0",
+					"cityName": "Nubra Valley",
+					"listingHotelMetadata": {
+						"propertyType": "Resort",
+						"mmtAssured": false,
+						"suitabilityTags": []
+					}
+				}, {
+					"id": 3,
+					"name": "The Grand Dragon Ladakh",
+					"starRating": "5",
+					"safe": true,
+					"rating": "4.5",
+					"cityName": "Leh",
+					"listingHotelMetadata": {
+						"propertyType": "Hotel",
+						"mmtAssured": true,
+						"suitabilityTags": []
+					}
+				}],
+				"categoryId": 84,
+				"maxStarRating": "5",
+				"minStarRating": "3"
+			}]
+		},
+		"activityDetails": {
+			"sightSeeingIncluded": true,
+			"sightSeeingCount": 1,
+			"activities": [{
+				"metaName": "permits",
+				"safe": true
+			}]
+		},
+		"commuteDetails": {
+			"cityDropIncluded": false,
+			"itineraryIncluded": true,
+			"commutes": [{
+				"name": "ITR6584",
+				"safe": false
+			}],
+			"sightSeeingDetails": [{
+				"id": 382,
+				"name": "Sham Valley",
+				"day": 2,
+				"safe": false
+			}, {
+				"id": 384,
+				"name": "Gurudwara Pathar Sahib",
+				"day": 2,
+				"safe": false
+			}, {
+				"id": 388,
+				"name": "Sangam Point",
+				"day": 2,
+				"safe": false
+			}, {
+				"id": 386,
+				"name": "Magnetic Hill",
+				"day": 2,
+				"safe": false
+			}, {
+				"id": 408,
+				"name": "Hall of Fame",
+				"day": 2,
+				"safe": false
+			}, {
+				"id": 412,
+				"name": "Khardung La Pass",
+				"day": 3,
+				"safe": false
+			}, {
+				"id": 434,
+				"name": "Hunder Dunes",
+				"day": 3,
+				"safe": false
+			}, {
+				"id": 430,
+				"name": "Diskit Monastery",
+				"day": 3,
+				"safe": false
+			}, {
+				"id": 440,
+				"name": "Turtuk",
+				"day": 4,
+				"safe": false
+			}, {
+				"id": 410,
+				"name": "Pangong Lake",
+				"day": 5,
+				"safe": false
+			}, {
+				"id": 394,
+				"name": "Shey Palace",
+				"day": 6,
+				"safe": false
+			}, {
+				"id": 390,
+				"name": "Hemis Monastery",
+				"day": 6,
+				"safe": false
+			}, {
+				"id": 392,
+				"name": "Thiksey Monastery",
+				"day": 6,
+				"safe": false
+			}]
+		},
+		"transferDetails": {
+			"transfersIncluded": false
+		},
+		"visaDetails": {
+			"visas": [{
+				"visaCharges": false,
+				"onArrival": false,
+				"visaSc": false
+			}]
+		},
+		"priceDetails": {
+			"categoryPrices": [{
+				"rawPrice": 51385,
+				"price": 89410,
+				"discountedPrice": 58393,
+				"serviceTax": 2920,
+				"serviceTaxPercent": 5.0,
+				"tcs": 0,
+				"tcsPercent": 0,
+				"zcAmount": 0,
+				"additionalPricingDetail": {
+					"markupPercent": 74.0,
+					"tcsEnabled": false
+				},
+				"paxMultiplier": 2,
+				"paxCount": 2,
+				"departureDate": 1624386600000,
+				"categoryId": 84,
+				"couponDiscount": {
+					"type": "ECOUPON",
+					"discountAppliedType": "INSTANT",
+					"amount": {
+						"price": 62035,
+						"currency": "INR"
+					},
+					"couponCode": "INDIAHOLIDAYS",
+					"additionalDiscountDetail": {
+						"recommendationMessage": "Coupon applied successfully",
+						"blockedPaymentOptions": "GIFT_CARD_PM,MMT_REWARD_BONUS_PM",
+						"limitedTimeDeal": false,
+						"couponEndTime": 1624991400,
+						"doubleDiscountAllowed": true
+					}
+				}
+			}]
+		},
+		"tagDetails": {
+			"tags": [{
+				"tag": "HolidayType",
+				"values": ["Most Popular"]
+			}, {
+				"tag": "Theme",
+				"values": ["Luxury"]
+			}, {
+				"tag": "SuitableFor",
+				"values": ["Families", "Friends", "Couples", "Senior Couples", "Solo"]
+			}, {
+				"tag": "Tags",
+				"values": ["Domestic Packages", "Luxury Flash Sale"]
+			}]
+		},
+		"dealDetails": {
+			"deals": ["Coupon applied successfully"]
+		},
+		"destinationDetails": {
+			"count": 3,
+			"destinations": [{
+				"seqNo": 1,
+				"name": "Leh",
+				"nights": 2,
+				"countryName": "India"
+			}, {
+				"seqNo": 2,
+				"name": "Nubra Valley",
+				"nights": 2,
+				"countryName": "India"
+			}, {
+				"seqNo": 3,
+				"name": "Leh",
+				"nights": 2,
+				"countryName": "India"
+			}],
+			"showCountryNames": false
+		},
+		"imageDetails": {
+			"mainImage": {
+				"name": "1200x658_Leh_1_Vivek-Chauhan.jpg",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/1200x658_Leh_1_Vivek-Chauhan.jpg"
+			},
+			"images": [{
+				"name": "1200x658_Ladakh_1.jpg",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/1200x658_Ladakh_1.jpg",
+				"day": 1
+			}, {
+				"name": "Ladakh_Etta Talwar Dutta011.jpg",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/Ladakh_Etta Talwar Dutta011.jpg",
+				"day": 1
+			}, {
+				"name": "Leh03.jpg",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/Leh03.jpg",
+				"day": 1
+			}, {
+				"name": "Leh .jpg",
+				"title": "",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/Leh .jpg",
+				"day": 2
+			}, {
+				"name": "Ladakh 1.jpg",
+				"title": "",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/Ladakh 1.jpg",
+				"day": 2
+			}, {
+				"name": "Zanskar.jpg",
+				"title": "",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/Zanskar.jpg",
+				"day": 2
+			}, {
+				"name": "1200x658_Numbra_Valley_1.jpg",
+				"path": "/cities/3823",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/3823/1200x658_Numbra_Valley_1.jpg",
+				"day": 3
+			}, {
+				"name": "Nubra2_Gaurav-Marwah.jpg",
+				"path": "/cities/3823",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/3823/Nubra2_Gaurav-Marwah.jpg",
+				"day": 3
+			}, {
+				"name": "Numbra_Valley.jpg",
+				"path": "/cities/3823",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/3823/Numbra_Valley.jpg",
+				"day": 3
+			}, {
+				"name": "Nubra-Valley-in-Ladakh.jpg",
+				"path": "/cities/3823",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/3823/Nubra-Valley-in-Ladakh.jpg",
+				"day": 3
+			}, {
+				"name": "caravan-travellers-riding-camels-Nubra-Valley-Ladakh.jpg",
+				"path": "/cities/3823",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/3823/caravan-travellers-riding-camels-Nubra-Valley-Ladakh.jpg",
+				"day": 4
+			}, {
+				"name": "Sand-dunes.-Nubra-valley.jpg",
+				"path": "/cities/3823",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/3823/Sand-dunes.-Nubra-valley.jpg",
+				"day": 4
+			}, {
+				"name": "Nubra - Camel Safari.jpg",
+				"title": "",
+				"path": "/cities/3823",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/3823/Nubra - Camel Safari.jpg",
+				"day": 4
+			}, {
+				"name": "Leh_2.jpg",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/Leh_2.jpg",
+				"day": 5
+			}, {
+				"name": "Pangong-tso-Lake.jpg",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/Pangong-tso-Lake.jpg",
+				"day": 5
+			}, {
+				"name": "Ruddy Shelduck flying over Pangong Lake.jpg",
+				"title": "Ruddy Shelduck flying over Pangong Lake",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/Ruddy Shelduck flying over Pangong Lake.jpg",
+				"day": 5
+			}, {
+				"name": "Leh City ,.jpeg",
+				"title": "Leh City Center",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/Leh City ,.jpeg",
+				"day": 6
+			}, {
+				"name": "Leh Market,.jpeg",
+				"title": "Leh City Center",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/Leh Market,.jpeg",
+				"day": 6
+			}, {
+				"name": "Leh 1.jpg",
+				"title": "",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/Leh 1.jpg",
+				"day": 6
+			}],
+			"componentImages": [{
+				"path": "https://r1imghtlak.mmtcdn.com/1fb917467b5711ebb5f30242ac110004.jpg?&downsize=740:435&crop=740:435;0,78&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://hldak.mmtcdn.com/prod-s3-activity-templates/activitiesImagesFinal/activity/IXL/ACT10000000003254_2.JPG",
+				"componentType": "ACTIVITY"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/cc890282261911e9a89a0242ac110002.jpg?&downsize=740:435&crop=740:435;0,30&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/f3a358cee17511e893e40242ac110003.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/a5501bcc6e1111e7a725025f77df004f.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/200710011539403113-d898050a1ddd11e792cb0224510f5e5b.jpg?&downsize=740:435&crop=740:435;24,0&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/200710011539403113-f6806984261b11e9a5b10242ac110003.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/200710011539403113-71afd3de261b11e9a1ac0242ac110002.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/9a12aba0261911e99e0f0242ac110002.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/cb750a6c261911e98b580242ac110002.jpg?&downsize=740:435&crop=740:435;0,28&output-format=jpg",
+				"componentType": "HOTEL"
+			}]
+		},
+		"categoryDetails": {
+			"defaultCategoryId": 84,
+			"categories": [{
+				"id": 84,
+				"name": "Luxury"
+			}]
+		},
+		"departureDetails": {
+			"cityId": 1218,
+			"cityName": "New Delhi"
+		},
+		"listingStaticData": {
+			"onlineDeal": false,
+			"premium": false
+		},
+		"inclusionDetails": {
+			"flights": true,
+			"carItinerary": true,
+			"cityDrops": false,
+			"activities": true,
+			"airportTransfers": false,
+			"visa": false
+		},
+		"packageClassification": "l3",
+		"tagDestination": "Ladakh",
+		"pkgCode": "",
+		"nights": 6,
+		"calVisibilityStartDays": 2,
+		"calVisibilityEndDays": 360,
+		"genreDetails": [],
+		"depCityId": 1218
+	}, {
+		"id": 47220,
+		"name": "Experience the Spirit of Buddha in Leh",
+		"packageType": "FIT",
+		"usp": "<p><span>Explore great monasteries with a guide |</span><span>&#160;| An Excursion to Royal family's Shey Monastery | Learn about Thangka Painting at Tibetan Children's Village|| Drive on the highest motorable pass in the world&#160;</span></p>",
+		"branch": "DOM",
+		"onlineBookable": true,
+		"ctaPackageOnlineBookable": false,
+		"dynamic": true,
+		"safe": false,
+		"storyEnabled": true,
+		"bundled": false,
+		"flightDetails": {
+			"included": true
+		},
+		"hotelDetails": {
+			"categories": [{
+				"hotels": [{
+					"id": 1,
+					"name": "Hotel Panorama",
+					"starRating": "3",
+					"safe": false,
+					"rating": "3.5",
+					"cityName": "Leh",
+					"listingHotelMetadata": {
+						"propertyType": "Hotel",
+						"mmtAssured": false,
+						"suitabilityTags": []
+					}
+				}],
+				"categoryId": 8,
+				"maxStarRating": "3",
+				"minStarRating": "3"
+			}]
+		},
+		"activityDetails": {
+			"sightSeeingIncluded": true,
+			"sightSeeingCount": 3,
+			"activities": [{
+				"metaName": "guided tour to the monastery",
+				"safe": false
+			}, {
+				"metaName": "Family Tours",
+				"safe": false
+			}, {
+				"metaName": "private guide",
+				"safe": false
+			}]
+		},
+		"commuteDetails": {
+			"cityDropIncluded": false,
+			"itineraryIncluded": true,
+			"commutes": [{
+				"name": "ITR11576",
+				"safe": false
+			}],
+			"sightSeeingDetails": [{
+				"id": 392,
+				"name": "Thiksey Monastery",
+				"day": 2,
+				"safe": false
+			}, {
+				"id": 390,
+				"name": "Hemis Monastery",
+				"day": 2,
+				"safe": false
+			}, {
+				"id": 394,
+				"name": "Shey Palace",
+				"day": 2,
+				"safe": false
+			}, {
+				"id": 384,
+				"name": "Gurudwara Pathar Sahib",
+				"day": 3,
+				"safe": false
+			}, {
+				"id": 398,
+				"name": "Alchi",
+				"day": 3,
+				"safe": false
+			}, {
+				"id": 386,
+				"name": "Magnetic Hill",
+				"day": 3,
+				"safe": false
+			}, {
+				"id": 412,
+				"name": "Khardung La Pass",
+				"day": 4,
+				"safe": false
+			}]
+		},
+		"transferDetails": {
+			"transfersIncluded": false
+		},
+		"visaDetails": {
+			"visas": [{
+				"visaCharges": false,
+				"onArrival": false,
+				"visaSc": false
+			}]
+		},
+		"priceDetails": {
+			"categoryPrices": [{
+				"rawPrice": 18934,
+				"price": 29348,
+				"discountedPrice": 21517,
+				"serviceTax": 1076,
+				"serviceTaxPercent": 5.0,
+				"tcs": 0,
+				"tcsPercent": 0,
+				"zcAmount": 0,
+				"additionalPricingDetail": {
+					"markupPercent": 55.0,
+					"tcsEnabled": false
+				},
+				"paxMultiplier": 2,
+				"paxCount": 2,
+				"departureDate": 1621967400000,
+				"categoryId": 8,
+				"couponDiscount": {
+					"type": "ECOUPON",
+					"discountAppliedType": "INSTANT",
+					"amount": {
+						"price": 15663,
+						"currency": "INR"
+					},
+					"couponCode": "INDIAHOLIDAYS",
+					"additionalDiscountDetail": {
+						"recommendationMessage": "Coupon applied successfully",
+						"blockedPaymentOptions": "GIFT_CARD_PM,MMT_REWARD_BONUS_PM",
+						"limitedTimeDeal": false,
+						"couponEndTime": 1624991400,
+						"doubleDiscountAllowed": true
+					}
+				}
+			}]
+		},
+		"tagDetails": {
+			"tags": [{
+				"tag": "Theme",
+				"values": ["Pilgrimage"]
+			}, {
+				"tag": "SuitableFor",
+				"values": ["Senior Couples"]
+			}, {
+				"tag": "Tags",
+				"values": ["Buddha trail", "Signature"]
+			}]
+		},
+		"dealDetails": {
+			"deals": ["Coupon applied successfully"]
+		},
+		"destinationDetails": {
+			"count": 1,
+			"destinations": [{
+				"seqNo": 1,
+				"name": "Leh",
+				"nights": 4,
+				"countryName": "India"
+			}],
+			"showCountryNames": false
+		},
+		"imageDetails": {
+			"mainImage": {
+				"name": "_Large-Thiksey-Gompa.jpg",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/_Large-Thiksey-Gompa.jpg"
+			},
+			"images": [{
+				"name": "1200x658_Leh_1_Vivek-Chauhan.jpg",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/1200x658_Leh_1_Vivek-Chauhan.jpg",
+				"day": 1
+			}, {
+				"name": "Leh_2.jpg",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/Leh_2.jpg",
+				"day": 1
+			}, {
+				"name": "Leh_Etta Talwar Dutta.jpg",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/Leh_Etta Talwar Dutta.jpg",
+				"day": 1
+			}, {
+				"name": "Shop for antiques from Leh Market.jpg",
+				"title": "Ruddy Shelduck flying over Pangong Lake",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/Shop for antiques from Leh Market.jpg",
+				"day": 1
+			}, {
+				"name": "Horses grazing at Khardungla pass.jpeg",
+				"title": "\nHorses grazing at Khardungla pass.jpeg",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/Horses grazing at Khardungla pass.jpeg",
+				"day": 2
+			}, {
+				"name": "khardungla pass in Snow highest point.jpeg",
+				"title": "\nHorses grazing at Khardungla pass.jpeg",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/khardungla pass in Snow highest point.jpeg",
+				"day": 2
+			}, {
+				"name": "Khardungla pass view.jpeg",
+				"title": "\nHorses grazing at Khardungla pass.jpeg",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/Khardungla pass view.jpeg",
+				"day": 2
+			}, {
+				"name": "Landscape at Khardungla pass.jpeg",
+				"title": "\nHorses grazing at Khardungla pass.jpeg",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/Landscape at Khardungla pass.jpeg",
+				"day": 2
+			}, {
+				"name": "Large-Thikse-Monastery.jpg",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/Large-Thikse-Monastery.jpg",
+				"day": 3
+			}, {
+				"name": "leh2.jpg",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/leh2.jpg",
+				"day": 3
+			}, {
+				"name": "leh4.jpg",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/leh4.jpg",
+				"day": 3
+			}, {
+				"name": "leh5.jpg",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/leh5.jpg",
+				"day": 3
+			}, {
+				"name": "leh6.jpg",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/leh6.jpg",
+				"day": 3
+			}, {
+				"name": "leh7.jpg",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/leh7.jpg",
+				"day": 3
+			}, {
+				"name": "Alchi-monastery-gompa-buddhist-leh.jpg",
+				"title": "\nAlchi-monastery-gompa-buddhist-leh.jpg",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/Alchi-monastery-gompa-buddhist-leh.jpg",
+				"day": 3
+			}, {
+				"name": "leh6.jpg",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/leh6.jpg",
+				"day": 4
+			}, {
+				"name": "leh7.jpg",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/leh7.jpg",
+				"day": 4
+			}, {
+				"name": "Namgyal-Tsemo-Gompa.jpg",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/Namgyal-Tsemo-Gompa.jpg",
+				"day": 4
+			}, {
+				"name": "Alchi-monastery-gompa-buddhist-leh.jpg",
+				"title": "\nAlchi-monastery-gompa-buddhist-leh.jpg",
+				"path": "/cities/1185",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/Alchi-monastery-gompa-buddhist-leh.jpg",
+				"day": 4
+			}],
+			"componentImages": [{
+				"path": "https://r1imghtlak.mmtcdn.com/c7fd8df02e8411e9a1700242ac110006.jpg?&downsize=740:435&crop=740:435;0,44&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://hldak.mmtcdn.com/prod-s3-activity-templates/activitiesImagesFinal/activity/IXL/ACT10000000008627_2.jpeg",
+				"componentType": "ACTIVITY"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/f8884a60b5ba11e494fbdaf4768ad8d9.jfif?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://hldak.mmtcdn.com/prod-s3-activity-templates/activitiesImagesFinal/activity/IXL/OTH10000000009703_2.jpg",
+				"componentType": "ACTIVITY"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/fea6edc42e8411e9b2bc0242ac110005.jpg?&downsize=740:435&crop=740:435;0,44&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://hldak.mmtcdn.com/prod-s3-activity-templates/activitiesImagesFinal/activity/IXL/ACT10000000008626_2.jpeg",
+				"componentType": "ACTIVITY"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/503159002e8411e9bbd50242ac110003.jpg?&downsize=740:435&crop=740:435;0,44&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://hldak.mmtcdn.com/prod-s3-activity-templates/activitiesImagesFinal/activity/IXL/ACT10000000008625_3.jpeg",
+				"componentType": "ACTIVITY"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/32083b2a2c4911e9866c0242ac110003.jpg?&downsize=740:435&crop=740:435;0,44&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/36aefee82c4911e99ea70242ac110003.jpg?&downsize=740:435&crop=740:435;0,44&output-format=jpg",
+				"componentType": "HOTEL"
+			}]
+		},
+		"categoryDetails": {
+			"defaultCategoryId": 8,
+			"categories": [{
+				"id": 8,
+				"name": "Standard"
+			}]
+		},
+		"departureDetails": {
+			"cityId": 1218,
+			"cityName": "New Delhi"
+		},
+		"listingStaticData": {
+			"onlineDeal": false,
+			"premium": false
+		},
+		"inclusionDetails": {
+			"flights": true,
+			"carItinerary": true,
+			"cityDrops": false,
+			"activities": true,
+			"airportTransfers": false,
+			"visa": false
+		},
+		"packageClassification": "l2",
+		"tagDestination": "Signature Journeys",
+		"pkgCode": "",
+		"nights": 4,
+		"packageSynopsis": "Find your inner peace in Ladakh when you explore the Land of Monasteries with our expert Phuntsog Dorjay.",
+		"persuasions": ["• An Excursion to Royal family's Shey Monastery", "• Join the priests in Puja ceremonies at famous monasteries", "• Check out the sacred Prayer Wheels, a UNESCO World Heritage Site", "• Explore great monasteries with a guide"],
+		"genreDetails": [{
+			"genreType": "MMT Signature",
+			"genreImageURL": "http://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/phonixImages/MMT Signature.png",
+			"images": {
+				"RAW": "http://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/phonixImages/ugc-label@3x.png",
+				"ANDROID": "http://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/phonixImages/ugc-label@3x.png",
+				"IPHONE": "http://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/phonixImages/ugc-label@3x.png"
+			}
+		}],
+		"smeDetail": {
+			"id": 40,
+			"name": "PHUNTSOG DORJAY",
+			"profileImage": "http://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/smeProfileImages/PHUNTSOG%20DORJAY%20-%20IMAGE.JPG"
+		},
+		"depCityId": 1218
+	}, {
+		"id": 34354,
+		"name": "Amazing Goa Flight Inclusive Deal 3N",
+		"packageType": "FIT",
+		"usp": "A flight and hotel only package. Customize the package from a pool of optional activities to make your holiday memorable! From adventure activities to heritage walks, your beach vacay comes with a host of optional activities.<div><br/></div>",
+		"branch": "DOM",
+		"onlineBookable": true,
+		"ctaPackageOnlineBookable": false,
+		"dynamic": true,
+		"safe": false,
+		"storyEnabled": false,
+		"bundled": false,
+		"flightDetails": {
+			"included": true
+		},
+		"hotelDetails": {
+			"categories": [{
+				"hotels": [{
+					"id": 1,
+					"name": "Hotel Regent Laguna",
+					"starRating": "3",
+					"safe": false,
+					"cityName": "Goa",
+					"listingHotelMetadata": {
+						"propertyType": "Hotel",
+						"mmtAssured": true,
+						"suitabilityTags": []
+					}
+				}],
+				"categoryId": 8,
+				"maxStarRating": "3",
+				"minStarRating": "3"
+			}, {
+				"hotels": [{
+					"id": 2,
+					"name": "Novotel Goa Candolim",
+					"starRating": "5",
+					"safe": false,
+					"rating": "4.5",
+					"cityName": "Goa",
+					"listingHotelMetadata": {
+						"propertyType": "Hotel",
+						"mmtAssured": true,
+						"suitabilityTags": []
+					}
+				}],
+				"categoryId": 12,
+				"maxStarRating": "5",
+				"minStarRating": "5"
+			}, {
+				"hotels": [{
+					"id": 3,
+					"name": "Country Inn & Suites by Radisson, Candolim Goa",
+					"starRating": "5",
+					"safe": false,
+					"rating": "4.0",
+					"cityName": "Goa",
+					"listingHotelMetadata": {
+						"propertyType": "Hotel",
+						"mmtAssured": false,
+						"suitabilityTags": []
+					}
+				}],
+				"categoryId": 84,
+				"maxStarRating": "5",
+				"minStarRating": "5"
+			}, {
+				"hotels": [{
+					"id": 4,
+					"name": "ibis Styles Goa Calangute Resort",
+					"starRating": "4",
+					"safe": false,
+					"rating": "4.5",
+					"cityName": "Goa",
+					"listingHotelMetadata": {
+						"propertyType": "Hotel",
+						"mmtAssured": false,
+						"suitabilityTags": []
+					}
+				}],
+				"categoryId": 2519,
+				"maxStarRating": "4",
+				"minStarRating": "4"
+			}]
+		},
+		"activityDetails": {
+			"sightSeeingIncluded": false,
+			"sightSeeingCount": 0
+		},
+		"commuteDetails": {
+			"cityDropIncluded": false,
+			"itineraryIncluded": false
+		},
+		"transferDetails": {
+			"transfersIncluded": true,
+			"transfers": [{
+				"name": "Private Transfer - Goa International Airport to Hotel",
+				"safe": true,
+				"safetyRating": 1,
+				"safetyRatings": "1"
+			}, {
+				"name": "Private Transfers from Hotel to Goa International Airport",
+				"safe": true,
+				"safetyRating": 1,
+				"safetyRatings": "1"
+			}]
+		},
+		"visaDetails": {
+			"visas": [{
+				"visaCharges": false,
+				"onArrival": false,
+				"visaSc": false
+			}]
+		},
+		"priceDetails": {
+			"categoryPrices": [{
+				"rawPrice": 10827,
+				"price": 18839,
+				"discountedPrice": 12304,
+				"serviceTax": 616,
+				"serviceTaxPercent": 5.0,
+				"tcs": 0,
+				"tcsPercent": 0,
+				"zcAmount": 0,
+				"additionalPricingDetail": {
+					"markupPercent": 74.0,
+					"tcsEnabled": false
+				},
+				"paxMultiplier": 2,
+				"paxCount": 2,
+				"departureDate": 1624559400000,
+				"categoryId": 8,
+				"couponDiscount": {
+					"type": "ECOUPON",
+					"discountAppliedType": "INSTANT",
+					"amount": {
+						"price": 13071,
+						"currency": "INR"
+					},
+					"couponCode": "INDIAHOLIDAYS",
+					"additionalDiscountDetail": {
+						"recommendationMessage": "Coupon applied successfully",
+						"blockedPaymentOptions": "GIFT_CARD_PM,MMT_REWARD_BONUS_PM",
+						"limitedTimeDeal": false,
+						"couponEndTime": 1624991400,
+						"doubleDiscountAllowed": true
+					}
+				}
+			}, {
+				"rawPrice": 14523,
+				"price": 25271,
+				"discountedPrice": 16505,
+				"serviceTax": 826,
+				"serviceTaxPercent": 5.0,
+				"tcs": 0,
+				"tcsPercent": 0,
+				"zcAmount": 0,
+				"additionalPricingDetail": {
+					"markupPercent": 74.0,
+					"tcsEnabled": false
+				},
+				"paxMultiplier": 2,
+				"paxCount": 2,
+				"departureDate": 1624559400000,
+				"categoryId": 12,
+				"couponDiscount": {
+					"type": "ECOUPON",
+					"discountAppliedType": "INSTANT",
+					"amount": {
+						"price": 17533,
+						"currency": "INR"
+					},
+					"couponCode": "INDIAHOLIDAYS",
+					"additionalDiscountDetail": {
+						"recommendationMessage": "Coupon applied successfully",
+						"blockedPaymentOptions": "GIFT_CARD_PM,MMT_REWARD_BONUS_PM",
+						"limitedTimeDeal": false,
+						"couponEndTime": 1624991400,
+						"doubleDiscountAllowed": true
+					}
+				}
+			}, {
+				"rawPrice": 13751,
+				"price": 23927,
+				"discountedPrice": 15627,
+				"serviceTax": 782,
+				"serviceTaxPercent": 5.0,
+				"tcs": 0,
+				"tcsPercent": 0,
+				"zcAmount": 0,
+				"additionalPricingDetail": {
+					"markupPercent": 74.0,
+					"tcsEnabled": false
+				},
+				"paxMultiplier": 2,
+				"paxCount": 2,
+				"departureDate": 1624559400000,
+				"categoryId": 84,
+				"couponDiscount": {
+					"type": "ECOUPON",
+					"discountAppliedType": "INSTANT",
+					"amount": {
+						"price": 16601,
+						"currency": "INR"
+					},
+					"couponCode": "INDIAHOLIDAYS",
+					"additionalDiscountDetail": {
+						"recommendationMessage": "Coupon applied successfully",
+						"blockedPaymentOptions": "GIFT_CARD_PM,MMT_REWARD_BONUS_PM",
+						"limitedTimeDeal": false,
+						"couponEndTime": 1624991400,
+						"doubleDiscountAllowed": true
+					}
+				}
+			}, {
+				"rawPrice": 14518,
+				"price": 25262,
+				"discountedPrice": 16499,
+				"serviceTax": 825,
+				"serviceTaxPercent": 5.0,
+				"tcs": 0,
+				"tcsPercent": 0,
+				"zcAmount": 0,
+				"additionalPricingDetail": {
+					"markupPercent": 74.0,
+					"tcsEnabled": false
+				},
+				"paxMultiplier": 2,
+				"paxCount": 2,
+				"departureDate": 1624559400000,
+				"categoryId": 2519,
+				"couponDiscount": {
+					"type": "ECOUPON",
+					"discountAppliedType": "INSTANT",
+					"amount": {
+						"price": 17527,
+						"currency": "INR"
+					},
+					"couponCode": "INDIAHOLIDAYS",
+					"additionalDiscountDetail": {
+						"recommendationMessage": "Coupon applied successfully",
+						"blockedPaymentOptions": "GIFT_CARD_PM,MMT_REWARD_BONUS_PM",
+						"limitedTimeDeal": false,
+						"couponEndTime": 1624991400,
+						"doubleDiscountAllowed": true
+					}
+				}
+			}]
+		},
+		"tagDetails": {
+			"tags": [{
+				"tag": "Tags",
+				"values": ["Nightlife", "Indigo Special", "Best Selling Online"]
+			}]
+		},
+		"dealDetails": {
+			"deals": ["Coupon applied successfully"]
+		},
+		"destinationDetails": {
+			"count": 1,
+			"destinations": [{
+				"seqNo": 1,
+				"name": "Goa",
+				"nights": 3,
+				"countryName": "India"
+			}],
+			"showCountryNames": false
+		},
+		"imageDetails": {
+			"mainImage": {
+				"name": "B.jpg",
+				"path": "/cities/1328",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/B.jpg",
+				"day": 1
+			},
+			"images": [{
+				"name": "ZH.jpg",
+				"path": "/cities/1328",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/ZH.jpg",
+				"day": 1
+			}, {
+				"name": "W.jpg",
+				"path": "/cities/1328",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/W.jpg",
+				"day": 2
+			}, {
+				"name": "ZZG.jpg",
+				"path": "/cities/1328",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/ZZG.jpg",
+				"day": 2
+			}, {
+				"name": "wind surfing goa.jpg",
+				"path": "/cities/1328",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/wind surfing goa.jpg",
+				"day": 3
+			}],
+			"componentImages": [{
+				"path": "https://r1imghtlak.mmtcdn.com/4be19340ea5111e99e990242ac110003.jpg?&downsize=740:435&crop=740:435;0,24&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/b128b53a064911ea93400242ac110005.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/b1260484064911ea807d0242ac110007.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/b13b88d6064911ea81ac0242ac110003.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/35403eb0022111eaa0630242ac110002.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/4be28ba6ea5111e99a6b0242ac110006.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/e7b7bc7c022011ea87070242ac110005.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/4be19818ea5111e9a89b0242ac110004.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/1fd0043e022111eabf7d0242ac110002.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/e7bcf9a8022011ea95550242ac110002.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}]
+		},
+		"categoryDetails": {
+			"defaultCategoryId": 8,
+			"categories": [{
+				"id": 8,
+				"name": "Standard"
+			}, {
+				"id": 12,
+				"name": "Premium"
+			}, {
+				"id": 84,
+				"name": "Luxury"
+			}, {
+				"id": 2519,
+				"name": "Deluxe"
+			}]
+		},
+		"departureDetails": {
+			"cityId": 1218,
+			"cityName": "New Delhi"
+		},
+		"listingStaticData": {
+			"onlineDeal": false,
+			"premium": false
+		},
+		"inclusionDetails": {
+			"flights": true,
+			"carItinerary": false,
+			"cityDrops": false,
+			"activities": false,
+			"airportTransfers": true,
+			"visa": false
+		},
+		"packageClassification": "l1",
+		"tagDestination": "Goa",
+		"pkgCode": "",
+		"nights": 3,
+		"calVisibilityStartDays": 10,
+		"calVisibilityEndDays": 360,
+		"persuasions": ["&#x2022; <b> Top Selling </b> package!"],
+		"genreDetails": [],
+		"depCityId": 1218
+	}, {
+		"id": 23726,
+		"name": "Amazing Goa Flight Inclusive Deal 4N",
+		"packageType": "FIT",
+		"usp": "A flight and hotel only package. Customize the package from a pool of optional activities to make your holiday memorable! A hot favourite of all beach lovers, your next Goa trip is going to be an unforgettable one!",
+		"branch": "DOM",
+		"onlineBookable": true,
+		"ctaPackageOnlineBookable": false,
+		"dynamic": true,
+		"safe": false,
+		"storyEnabled": false,
+		"bundled": false,
+		"flightDetails": {
+			"included": true
+		},
+		"hotelDetails": {
+			"categories": [{
+				"hotels": [{
+					"id": 1,
+					"name": "Hotel Regent Laguna",
+					"starRating": "3",
+					"safe": false,
+					"cityName": "Goa",
+					"listingHotelMetadata": {
+						"propertyType": "Hotel",
+						"mmtAssured": true,
+						"suitabilityTags": []
+					}
+				}],
+				"categoryId": 8,
+				"maxStarRating": "3",
+				"minStarRating": "3"
+			}, {
+				"hotels": [{
+					"id": 2,
+					"name": "Kyriad Prestige Calangute Goa by OTHPL",
+					"starRating": "4",
+					"safe": false,
+					"rating": "4.0",
+					"cityName": "Goa",
+					"listingHotelMetadata": {
+						"propertyType": "Resort",
+						"mmtAssured": false,
+						"suitabilityTags": []
+					}
+				}],
+				"categoryId": 10,
+				"maxStarRating": "4",
+				"minStarRating": "4"
+			}, {
+				"hotels": [{
+					"id": 3,
+					"name": "Country Inn & Suites by Radisson, Candolim Goa",
+					"starRating": "5",
+					"safe": false,
+					"rating": "4.0",
+					"cityName": "Goa",
+					"listingHotelMetadata": {
+						"propertyType": "Hotel",
+						"mmtAssured": false,
+						"suitabilityTags": []
+					}
+				}],
+				"categoryId": 12,
+				"maxStarRating": "5",
+				"minStarRating": "5"
+			}, {
+				"hotels": [{
+					"id": 4,
+					"name": "Country Inn & Suites by Radisson, Candolim Goa",
+					"starRating": "5",
+					"safe": false,
+					"rating": "4.0",
+					"cityName": "Goa",
+					"listingHotelMetadata": {
+						"propertyType": "Hotel",
+						"mmtAssured": false,
+						"suitabilityTags": []
+					}
+				}],
+				"categoryId": 84,
+				"maxStarRating": "5",
+				"minStarRating": "5"
+			}, {
+				"hotels": [{
+					"id": 5,
+					"name": "Lemon Tree Amarante Beach Resort- MMT Holidays Special",
+					"starRating": "5",
+					"safe": false,
+					"cityName": "Goa",
+					"listingHotelMetadata": {
+						"propertyType": "Hotel",
+						"mmtAssured": false
+					}
+				}],
+				"categoryId": 2519,
+				"maxStarRating": "5",
+				"minStarRating": "5"
+			}]
+		},
+		"activityDetails": {
+			"sightSeeingIncluded": false,
+			"sightSeeingCount": 0
+		},
+		"commuteDetails": {
+			"cityDropIncluded": false,
+			"itineraryIncluded": false
+		},
+		"transferDetails": {
+			"transfersIncluded": true,
+			"transfers": [{
+				"name": "Private Transfer - Goa International Airport to Hotel",
+				"safe": true,
+				"safetyRating": 1,
+				"safetyRatings": "1"
+			}, {
+				"name": "Private Transfers from Hotel to Goa International Airport",
+				"safe": true,
+				"safetyRating": 1,
+				"safetyRatings": "1"
+			}]
+		},
+		"visaDetails": {
+			"visas": [{
+				"visaCharges": false,
+				"onArrival": false,
+				"visaSc": false
+			}]
+		},
+		"priceDetails": {
+			"categoryPrices": [{
+				"rawPrice": 11827,
+				"price": 20579,
+				"discountedPrice": 13440,
+				"serviceTax": 672,
+				"serviceTaxPercent": 5.0,
+				"tcs": 0,
+				"tcsPercent": 0,
+				"zcAmount": 0,
+				"additionalPricingDetail": {
+					"markupPercent": 74.0,
+					"tcsEnabled": false
+				},
+				"paxMultiplier": 2,
+				"paxCount": 2,
+				"departureDate": 1624559400000,
+				"categoryId": 8,
+				"couponDiscount": {
+					"type": "ECOUPON",
+					"discountAppliedType": "INSTANT",
+					"amount": {
+						"price": 14278,
+						"currency": "INR"
+					},
+					"couponCode": "INDIAHOLIDAYS",
+					"additionalDiscountDetail": {
+						"recommendationMessage": "Coupon applied successfully",
+						"blockedPaymentOptions": "GIFT_CARD_PM,MMT_REWARD_BONUS_PM",
+						"limitedTimeDeal": false,
+						"couponEndTime": 1624991400,
+						"doubleDiscountAllowed": true
+					}
+				}
+			}, {
+				"rawPrice": 11627,
+				"price": 20231,
+				"discountedPrice": 13213,
+				"serviceTax": 661,
+				"serviceTaxPercent": 5.0,
+				"tcs": 0,
+				"tcsPercent": 0,
+				"zcAmount": 0,
+				"additionalPricingDetail": {
+					"markupPercent": 74.0,
+					"tcsEnabled": false
+				},
+				"paxMultiplier": 2,
+				"paxCount": 2,
+				"departureDate": 1624559400000,
+				"categoryId": 10,
+				"couponDiscount": {
+					"type": "ECOUPON",
+					"discountAppliedType": "INSTANT",
+					"amount": {
+						"price": 14036,
+						"currency": "INR"
+					},
+					"couponCode": "INDIAHOLIDAYS",
+					"additionalDiscountDetail": {
+						"recommendationMessage": "Coupon applied successfully",
+						"blockedPaymentOptions": "GIFT_CARD_PM,MMT_REWARD_BONUS_PM",
+						"limitedTimeDeal": false,
+						"couponEndTime": 1624991400,
+						"doubleDiscountAllowed": true
+					}
+				}
+			}, {
+				"rawPrice": 15642,
+				"price": 27218,
+				"discountedPrice": 17776,
+				"serviceTax": 889,
+				"serviceTaxPercent": 5.0,
+				"tcs": 0,
+				"tcsPercent": 0,
+				"zcAmount": 0,
+				"additionalPricingDetail": {
+					"markupPercent": 74.0,
+					"tcsEnabled": false
+				},
+				"paxMultiplier": 2,
+				"paxCount": 2,
+				"departureDate": 1624559400000,
+				"categoryId": 12,
+				"couponDiscount": {
+					"type": "ECOUPON",
+					"discountAppliedType": "INSTANT",
+					"amount": {
+						"price": 18884,
+						"currency": "INR"
+					},
+					"couponCode": "INDIAHOLIDAYS",
+					"additionalDiscountDetail": {
+						"recommendationMessage": "Coupon applied successfully",
+						"blockedPaymentOptions": "GIFT_CARD_PM,MMT_REWARD_BONUS_PM",
+						"limitedTimeDeal": false,
+						"couponEndTime": 1624991400,
+						"doubleDiscountAllowed": true
+					}
+				}
+			}, {
+				"rawPrice": 15642,
+				"price": 27218,
+				"discountedPrice": 17776,
+				"serviceTax": 889,
+				"serviceTaxPercent": 5.0,
+				"tcs": 0,
+				"tcsPercent": 0,
+				"zcAmount": 0,
+				"additionalPricingDetail": {
+					"markupPercent": 74.0,
+					"tcsEnabled": false
+				},
+				"paxMultiplier": 2,
+				"paxCount": 2,
+				"departureDate": 1624559400000,
+				"categoryId": 84,
+				"couponDiscount": {
+					"type": "ECOUPON",
+					"discountAppliedType": "INSTANT",
+					"amount": {
+						"price": 18884,
+						"currency": "INR"
+					},
+					"couponCode": "INDIAHOLIDAYS",
+					"additionalDiscountDetail": {
+						"recommendationMessage": "Coupon applied successfully",
+						"blockedPaymentOptions": "GIFT_CARD_PM,MMT_REWARD_BONUS_PM",
+						"limitedTimeDeal": false,
+						"couponEndTime": 1624991400,
+						"doubleDiscountAllowed": true
+					}
+				}
+			}, {
+				"rawPrice": 17627,
+				"price": 30671,
+				"discountedPrice": 20031,
+				"serviceTax": 1002,
+				"serviceTaxPercent": 5.0,
+				"tcs": 0,
+				"tcsPercent": 0,
+				"zcAmount": 0,
+				"additionalPricingDetail": {
+					"markupPercent": 74.0,
+					"tcsEnabled": false
+				},
+				"paxMultiplier": 2,
+				"paxCount": 2,
+				"departureDate": 1624559400000,
+				"categoryId": 2519,
+				"couponDiscount": {
+					"type": "ECOUPON",
+					"discountAppliedType": "INSTANT",
+					"amount": {
+						"price": 21280,
+						"currency": "INR"
+					},
+					"couponCode": "INDIAHOLIDAYS",
+					"additionalDiscountDetail": {
+						"recommendationMessage": "Coupon applied successfully",
+						"blockedPaymentOptions": "GIFT_CARD_PM,MMT_REWARD_BONUS_PM",
+						"limitedTimeDeal": false,
+						"couponEndTime": 1624991400,
+						"doubleDiscountAllowed": true
+					}
+				}
+			}]
+		},
+		"tagDetails": {
+			"tags": [{
+				"tag": "Tags",
+				"values": ["Nightlife", "Indigo Special", "Best Selling Online"]
+			}]
+		},
+		"dealDetails": {
+			"deals": ["Coupon applied successfully"]
+		},
+		"destinationDetails": {
+			"count": 1,
+			"destinations": [{
+				"seqNo": 1,
+				"name": "Goa",
+				"nights": 4,
+				"countryName": "India"
+			}],
+			"showCountryNames": false
+		},
+		"imageDetails": {
+			"mainImage": {
+				"name": "Y.jpg",
+				"path": "/cities/1328",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/Y.jpg",
+				"day": 1
+			},
+			"images": [{
+				"name": "ZN.jpg",
+				"path": "/cities/1328",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/ZN.jpg",
+				"day": 1
+			}, {
+				"name": "ZE.jpg",
+				"path": "/cities/1328",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/ZE.jpg",
+				"day": 2
+			}, {
+				"name": "ZP.jpg",
+				"path": "/cities/1328",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/ZP.jpg",
+				"day": 2
+			}, {
+				"name": "ZG.jpg",
+				"path": "/cities/1328",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/ZG.jpg",
+				"day": 3
+			}, {
+				"name": "ZM.jpg",
+				"path": "/cities/1328",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/ZM.jpg",
+				"day": 4
+			}],
+			"componentImages": [{
+				"path": "https://r1imghtlak.mmtcdn.com/4be19340ea5111e99e990242ac110003.jpg?&downsize=740:435&crop=740:435;0,24&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/b128b53a064911ea93400242ac110005.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/b1260484064911ea807d0242ac110007.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/b13b88d6064911ea81ac0242ac110003.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/35403eb0022111eaa0630242ac110002.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/4be28ba6ea5111e99a6b0242ac110006.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/e7b7bc7c022011ea87070242ac110005.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/4be19818ea5111e9a89b0242ac110004.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/1fd0043e022111eabf7d0242ac110002.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/e7bcf9a8022011ea95550242ac110002.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}]
+		},
+		"categoryDetails": {
+			"defaultCategoryId": 8,
+			"categories": [{
+				"id": 8,
+				"name": "Standard"
+			}, {
+				"id": 10,
+				"name": "Deluxe"
+			}, {
+				"id": 12,
+				"name": "Premium"
+			}, {
+				"id": 84,
+				"name": "Luxury"
+			}, {
+				"id": 2519,
+				"name": "Deluxe"
+			}]
+		},
+		"departureDetails": {
+			"cityId": 1218,
+			"cityName": "New Delhi"
+		},
+		"listingStaticData": {
+			"onlineDeal": false,
+			"premium": false
+		},
+		"inclusionDetails": {
+			"flights": true,
+			"carItinerary": false,
+			"cityDrops": false,
+			"activities": false,
+			"airportTransfers": true,
+			"visa": false
+		},
+		"packageClassification": "l1",
+		"tagDestination": "Goa",
+		"pkgCode": "",
+		"nights": 4,
+		"calVisibilityStartDays": 10,
+		"calVisibilityEndDays": 360,
+		"persuasions": ["&#x2022; <b> Trending </b> in top 5 sold"],
+		"genreDetails": [],
+		"depCityId": 1218
+	}, {
+		"id": 37055,
+		"name": "Stay at 4 Star Properties in Goa",
+		"packageType": "FIT",
+		"usp": "Stay at the handpicked deluxe properties in Goa | Hassle free airport transfers | North Goa Sight seeing | South Goa Sight seeing",
+		"branch": "DOM",
+		"onlineBookable": true,
+		"ctaPackageOnlineBookable": false,
+		"dynamic": true,
+		"safe": false,
+		"storyEnabled": false,
+		"bundled": false,
+		"flightDetails": {
+			"included": true
+		},
+		"hotelDetails": {
+			"categories": [{
+				"hotels": [{
+					"id": 1,
+					"name": "Kyriad Prestige Calangute Goa by OTHPL",
+					"starRating": "4",
+					"safe": false,
+					"rating": "4.0",
+					"cityName": "Goa",
+					"listingHotelMetadata": {
+						"propertyType": "Resort",
+						"mmtAssured": false,
+						"suitabilityTags": []
+					}
+				}],
+				"categoryId": 2519,
+				"maxStarRating": "4",
+				"minStarRating": "4"
+			}]
+		},
+		"activityDetails": {
+			"sightSeeingIncluded": false,
+			"sightSeeingCount": 0
+		},
+		"commuteDetails": {
+			"cityDropIncluded": false,
+			"itineraryIncluded": false
+		},
+		"transferDetails": {
+			"transfersIncluded": true,
+			"transfers": [{
+				"name": "Private Transfer - Goa International Airport to Hotel",
+				"safe": true,
+				"safetyRating": 1,
+				"safetyRatings": "1"
+			}, {
+				"name": "Private Transfers from Hotel to Goa International Airport",
+				"safe": true,
+				"safetyRating": 1,
+				"safetyRatings": "1"
+			}]
+		},
+		"visaDetails": {
+			"visas": [{
+				"visaCharges": false,
+				"onArrival": false,
+				"visaSc": false
+			}]
+		},
+		"priceDetails": {
+			"categoryPrices": [{
+				"rawPrice": 11627,
+				"price": 20231,
+				"discountedPrice": 13213,
+				"serviceTax": 661,
+				"serviceTaxPercent": 5.0,
+				"tcs": 0,
+				"tcsPercent": 0,
+				"zcAmount": 0,
+				"additionalPricingDetail": {
+					"markupPercent": 74.0,
+					"tcsEnabled": false
+				},
+				"paxMultiplier": 2,
+				"paxCount": 2,
+				"departureDate": 1624300200000,
+				"categoryId": 2519,
+				"couponDiscount": {
+					"type": "ECOUPON",
+					"discountAppliedType": "INSTANT",
+					"amount": {
+						"price": 14036,
+						"currency": "INR"
+					},
+					"couponCode": "INDIAHOLIDAYS",
+					"additionalDiscountDetail": {
+						"recommendationMessage": "Coupon applied successfully",
+						"blockedPaymentOptions": "GIFT_CARD_PM,MMT_REWARD_BONUS_PM",
+						"limitedTimeDeal": false,
+						"couponEndTime": 1624991400,
+						"doubleDiscountAllowed": true
+					}
+				}
+			}]
+		},
+		"tagDetails": {
+			"tags": [{
+				"tag": "SuitableFor",
+				"values": ["Families"]
+			}, {
+				"tag": "Tags",
+				"values": ["Domestic Packages", "Indigo Special"]
+			}]
+		},
+		"dealDetails": {
+			"deals": ["Coupon applied successfully"]
+		},
+		"destinationDetails": {
+			"count": 1,
+			"destinations": [{
+				"seqNo": 1,
+				"name": "Goa",
+				"nights": 4,
+				"countryName": "India"
+			}],
+			"showCountryNames": false
+		},
+		"imageDetails": {
+			"mainImage": {
+				"name": "Stunning Sinquerim Beach.jpg",
+				"title": "A beach in Goa",
+				"path": "/cities/1328",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/Stunning Sinquerim Beach.jpg"
+			},
+			"images": [{
+				"name": "L.jpg",
+				"path": "/cities/1328",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/L.jpg",
+				"day": 1
+			}, {
+				"name": "N.jpg",
+				"path": "/cities/1328",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/N.jpg",
+				"day": 1
+			}, {
+				"name": "Untitled-1.jpg",
+				"path": "/cities/1328",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/Untitled-1.jpg",
+				"day": 2
+			}, {
+				"name": "P.jpg",
+				"path": "/cities/1328",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/P.jpg",
+				"day": 2
+			}, {
+				"name": "Scuba Divig - Family.jpg",
+				"path": "/cities/1328",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/Scuba Divig - Family.jpg",
+				"day": 3
+			}, {
+				"name": "U.jpg",
+				"path": "/cities/1328",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/U.jpg",
+				"day": 3
+			}, {
+				"name": "EZP 9278.jpg",
+				"path": "/cities/1328",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/EZP 9278.jpg",
+				"day": 4
+			}, {
+				"name": "Hot air ballooning- romantic.jpg",
+				"path": "/cities/1328",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/Hot air ballooning- romantic.jpg",
+				"day": 4
+			}],
+			"componentImages": [{
+				"path": "https://r1imghtlak.mmtcdn.com/cb98f27a022211ea8c8a0242ac110003.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/df4b225c022211ea8f4f0242ac110003.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/def27f08022211ea911c0242ac110008.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/deb04426022211eab11a0242ac110002.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/cc1b7c40022211ea93800242ac110003.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/cbe6a8bc022211ea95a10242ac110002.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/cc0b6aa8022211eaaf710242ac110002.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/cbd96256022211ea87bd0242ac110002.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/a93357e8022211ea8a9c0242ac110003.jfif?&downsize=740:435&crop=740:435;0,60&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/a8fcc12e022211eaaf340242ac110003.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}]
+		},
+		"categoryDetails": {
+			"defaultCategoryId": 2519,
+			"categories": [{
+				"id": 2519,
+				"name": "Deluxe"
+			}]
+		},
+		"departureDetails": {
+			"cityId": 1218,
+			"cityName": "New Delhi"
+		},
+		"listingStaticData": {
+			"onlineDeal": false,
+			"premium": false
+		},
+		"inclusionDetails": {
+			"flights": true,
+			"carItinerary": false,
+			"cityDrops": false,
+			"activities": false,
+			"airportTransfers": true,
+			"visa": false
+		},
+		"packageClassification": "l1",
+		"tagDestination": "Goa",
+		"pkgCode": "",
+		"nights": 4,
+		"calVisibilityStartDays": 10,
+		"calVisibilityEndDays": 360,
+		"genreDetails": [],
+		"depCityId": 1218
+	}, {
+		"id": 46143,
+		"name": "3N Munnar with Thekkady - Flight Inclusive Deal",
+		"packageType": "FIT",
+		"usp": "Escape the city; head out to the scenic hills and be amazed by breathtaking views of Munnar and Thekkady. Visit tea gardens, sanctuaries and more.",
+		"branch": "DOM",
+		"onlineBookable": true,
+		"ctaPackageOnlineBookable": false,
+		"dynamic": true,
+		"safe": false,
+		"storyEnabled": false,
+		"bundled": false,
+		"flightDetails": {
+			"included": true
+		},
+		"hotelDetails": {
+			"categories": [{
+				"hotels": [{
+					"id": 1,
+					"name": "LAKE FOREST MUNNAR",
+					"starRating": "3",
+					"safe": false,
+					"cityName": "Munnar",
+					"listingHotelMetadata": {
+						"propertyType": "Resort",
+						"mmtAssured": false,
+						"suitabilityTags": []
+					}
+				}, {
+					"id": 2,
+					"name": "Hotel Sandra Palace",
+					"starRating": "3",
+					"safe": true,
+					"rating": "4.0",
+					"cityName": "Thekkady",
+					"listingHotelMetadata": {
+						"propertyType": "Hotel",
+						"mmtAssured": false,
+						"suitabilityTags": []
+					}
+				}],
+				"categoryId": 8,
+				"maxStarRating": "3",
+				"minStarRating": "3"
+			}, {
+				"hotels": [{
+					"id": 3,
+					"name": "Devonshire Greens - The Leisure Hotel & Spa",
+					"starRating": "5",
+					"safe": false,
+					"rating": "4.0",
+					"cityName": "Munnar",
+					"listingHotelMetadata": {
+						"propertyType": "Resort",
+						"mmtAssured": false,
+						"suitabilityTags": []
+					}
+				}, {
+					"id": 4,
+					"name": "The Mountain Courtyard Thekkady",
+					"starRating": "5",
+					"safe": false,
+					"rating": "5.0",
+					"cityName": "Thekkady",
+					"listingHotelMetadata": {
+						"propertyType": "Resort",
+						"mmtAssured": true,
+						"suitabilityTags": []
+					}
+				}],
+				"categoryId": 12,
+				"maxStarRating": "5",
+				"minStarRating": "5"
+			}, {
+				"hotels": [{
+					"id": 5,
+					"name": "Gokulam Park",
+					"starRating": "4",
+					"safe": true,
+					"rating": "4.0",
+					"cityName": "Munnar",
+					"listingHotelMetadata": {
+						"propertyType": "Hotel",
+						"mmtAssured": true,
+						"suitabilityTags": []
+					}
+				}, {
+					"id": 6,
+					"name": "Holiday Vista Luxury Hotel and Spa, Thekkady",
+					"starRating": "4",
+					"safe": true,
+					"rating": "4.0",
+					"cityName": "Thekkady",
+					"listingHotelMetadata": {
+						"propertyType": "Hotel",
+						"mmtAssured": false,
+						"suitabilityTags": []
+					}
+				}],
+				"categoryId": 2519,
+				"maxStarRating": "4",
+				"minStarRating": "4"
+			}]
+		},
+		"activityDetails": {
+			"sightSeeingIncluded": false,
+			"sightSeeingCount": 0
+		},
+		"commuteDetails": {
+			"cityDropIncluded": false,
+			"itineraryIncluded": true,
+			"commutes": [{
+				"name": "ITR180",
+				"safe": true
+			}],
+			"sightSeeingDetails": [{
+				"id": 1,
+				"name": "Valara Waterfalls",
+				"day": 1,
+				"safe": true
+			}, {
+				"id": 7,
+				"name": "Tata Tea Museum",
+				"day": 2,
+				"safe": true
+			}, {
+				"id": 9,
+				"name": "Eravikulam national park",
+				"day": 2,
+				"safe": true
+			}, {
+				"id": 11,
+				"name": "Mattupetty Dam",
+				"day": 2,
+				"safe": true
+			}, {
+				"id": 2917,
+				"name": "Echo Point",
+				"day": 2,
+				"safe": true
+			}, {
+				"id": 2466,
+				"name": "Periyar lake",
+				"day": 3,
+				"safe": true
+			}, {
+				"id": 2472,
+				"name": "Periyar Wildlife Sanctuary",
+				"day": 3,
+				"safe": true
+			}, {
+				"id": 2464,
+				"name": "Chillies Spice Garden",
+				"day": 3,
+				"safe": true
+			}]
+		},
+		"transferDetails": {
+			"transfersIncluded": false
+		},
+		"visaDetails": {
+			"visas": [{
+				"visaCharges": false,
+				"onArrival": false,
+				"visaSc": false
+			}]
+		},
+		"priceDetails": {
+			"categoryPrices": [{
+				"rawPrice": 12392,
+				"price": 21563,
+				"discountedPrice": 14083,
+				"serviceTax": 705,
+				"serviceTaxPercent": 5.0,
+				"tcs": 0,
+				"tcsPercent": 0,
+				"zcAmount": 0,
+				"additionalPricingDetail": {
+					"markupPercent": 74.0,
+					"tcsEnabled": false
+				},
+				"paxMultiplier": 2,
+				"paxCount": 2,
+				"departureDate": 1626201000000,
+				"categoryId": 8,
+				"couponDiscount": {
+					"type": "ECOUPON",
+					"discountAppliedType": "INSTANT",
+					"amount": {
+						"price": 14960,
+						"currency": "INR"
+					},
+					"couponCode": "INDIAHOLIDAYS",
+					"additionalDiscountDetail": {
+						"recommendationMessage": "Coupon applied successfully",
+						"blockedPaymentOptions": "GIFT_CARD_PM,MMT_REWARD_BONUS_PM",
+						"limitedTimeDeal": false,
+						"couponEndTime": 1624991400,
+						"doubleDiscountAllowed": true
+					}
+				}
+			}, {
+				"rawPrice": 14463,
+				"price": 25166,
+				"discountedPrice": 16436,
+				"serviceTax": 822,
+				"serviceTaxPercent": 5.0,
+				"tcs": 0,
+				"tcsPercent": 0,
+				"zcAmount": 0,
+				"additionalPricingDetail": {
+					"markupPercent": 74.0,
+					"tcsEnabled": false
+				},
+				"paxMultiplier": 2,
+				"paxCount": 2,
+				"departureDate": 1626201000000,
+				"categoryId": 12,
+				"couponDiscount": {
+					"type": "ECOUPON",
+					"discountAppliedType": "INSTANT",
+					"amount": {
+						"price": 17460,
+						"currency": "INR"
+					},
+					"couponCode": "INDIAHOLIDAYS",
+					"additionalDiscountDetail": {
+						"recommendationMessage": "Coupon applied successfully",
+						"blockedPaymentOptions": "GIFT_CARD_PM,MMT_REWARD_BONUS_PM",
+						"limitedTimeDeal": false,
+						"couponEndTime": 1624991400,
+						"doubleDiscountAllowed": true
+					}
+				}
+			}, {
+				"rawPrice": 13373,
+				"price": 23270,
+				"discountedPrice": 15198,
+				"serviceTax": 760,
+				"serviceTaxPercent": 5.0,
+				"tcs": 0,
+				"tcsPercent": 0,
+				"zcAmount": 0,
+				"additionalPricingDetail": {
+					"markupPercent": 74.0,
+					"tcsEnabled": false
+				},
+				"paxMultiplier": 2,
+				"paxCount": 2,
+				"departureDate": 1626201000000,
+				"categoryId": 2519,
+				"couponDiscount": {
+					"type": "ECOUPON",
+					"discountAppliedType": "INSTANT",
+					"amount": {
+						"price": 16144,
+						"currency": "INR"
+					},
+					"couponCode": "INDIAHOLIDAYS",
+					"additionalDiscountDetail": {
+						"recommendationMessage": "Coupon applied successfully",
+						"blockedPaymentOptions": "GIFT_CARD_PM,MMT_REWARD_BONUS_PM",
+						"limitedTimeDeal": false,
+						"couponEndTime": 1624991400,
+						"doubleDiscountAllowed": true
+					}
+				}
+			}]
+		},
+		"tagDetails": {
+			"tags": [{
+				"tag": "HolidayType",
+				"values": ["Featured", "Multi-City"]
+			}, {
+				"tag": "Tags",
+				"values": ["Cultural", "Indigo Special", "Best Selling Online"]
+			}]
+		},
+		"dealDetails": {
+			"deals": ["Coupon applied successfully"]
+		},
+		"destinationDetails": {
+			"count": 2,
+			"destinations": [{
+				"seqNo": 1,
+				"name": "Munnar",
+				"nights": 2,
+				"countryName": "India"
+			}, {
+				"seqNo": 2,
+				"name": "Thekkady",
+				"nights": 1,
+				"countryName": "India"
+			}],
+			"showCountryNames": false
+		},
+		"imageDetails": {
+			"mainImage": {
+				"name": "Lake-Periyar.jpg",
+				"path": "/cities/1387",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1387/Lake-Periyar.jpg"
+			},
+			"images": [{
+				"name": "Thekkady.jpg",
+				"path": "/cities/1387",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1387/Thekkady.jpg",
+				"day": 1
+			}, {
+				"name": "Thekkady.jpg",
+				"path": "/cities/1387",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1387/Thekkady.jpg",
+				"day": 2
+			}, {
+				"name": "Periyar-reservoir2.jpg",
+				"path": "/cities/1387",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1387/Periyar-reservoir2.jpg",
+				"day": 3
+			}],
+			"componentImages": [{
+				"path": "https://r1imghtlak.mmtcdn.com/a4594a6c578f11ea85530242ac110007.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201911221154373347-5e90bacc40df11eaa8ef0242ac110002.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201911221154373347-cf02e7320cfd11ea8f3b0242ac110003.jpg?&downsize=740:435&crop=740:435;54,0&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201911221154373347-65b72da441ac11ea9e330242ac110002.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/6035706209de11ea85270242ac110003.jpg?&downsize=740:435&crop=740:435;0,60&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/c57421f818de11eaa4740242ac110005.jpeg?&downsize=740:435&crop=740:435;0,60&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/4e35e5bc18da11eaa0260242ac110003.jpeg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/693b4dfc18da11eaa7900242ac110002.jpeg?&downsize=740:435&crop=740:435;0,141&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/958a53f818da11eaad9f0242ac110008.jpeg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/b308f54c18da11eaa38a0242ac110007.jpeg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}]
+		},
+		"categoryDetails": {
+			"defaultCategoryId": 8,
+			"categories": [{
+				"id": 8,
+				"name": "Standard"
+			}, {
+				"id": 12,
+				"name": "Premium"
+			}, {
+				"id": 2519,
+				"name": "Deluxe"
+			}]
+		},
+		"departureDetails": {
+			"cityId": 1218,
+			"cityName": "New Delhi"
+		},
+		"listingStaticData": {
+			"onlineDeal": false,
+			"premium": false
+		},
+		"inclusionDetails": {
+			"flights": true,
+			"carItinerary": true,
+			"cityDrops": false,
+			"activities": false,
+			"airportTransfers": false,
+			"visa": false
+		},
+		"videoDetails": {
+			"packageVideo": {
+				"mpdUrl": "https://juggler.makemytrip.com/juggler/stream/key/75e26a180c671e90ffca3c7086e9e71d/manifest.mpd",
+				"hlsUrl": "https://juggler.makemytrip.com/juggler/stream/key/75e26a180c671e90ffca3c7086e9e71d/master.m3u8"
+			}
+		},
+		"packageClassification": "l4",
+		"tagDestination": "Kerala",
+		"pkgCode": "",
+		"nights": 3,
+		"calVisibilityStartDays": 3,
+		"calVisibilityEndDays": 360,
+		"persuasions": ["&#x2022; Enjoy the serene landscape of Munnar.", "&#x2022; Enjoy the serene landscape of Munnar.", "&#x2022; A short trip with exclusive flight deals to tranquil Kerala."],
+		"genreDetails": [],
+		"depCityId": 1218
+	}, {
+		"id": 28421,
+		"name": "4N Premium Kerala Flight Inclusive Deal with Sightseeing",
+		"packageType": "FIT",
+		"usp": "<p>A flight inclusive deal package | Ideal 4 night package for Kerala | Stay at affordable premium properties</p>",
+		"branch": "DOM",
+		"onlineBookable": true,
+		"ctaPackageOnlineBookable": false,
+		"dynamic": true,
+		"safe": false,
+		"storyEnabled": false,
+		"bundled": false,
+		"flightDetails": {
+			"included": true
+		},
+		"hotelDetails": {
+			"categories": [{
+				"hotels": [{
+					"id": 1,
+					"name": "Devonshire Greens - The Leisure Hotel & Spa",
+					"starRating": "5",
+					"safe": false,
+					"rating": "4.0",
+					"cityName": "Munnar",
+					"listingHotelMetadata": {
+						"propertyType": "Resort",
+						"mmtAssured": false,
+						"suitabilityTags": []
+					}
+				}, {
+					"id": 2,
+					"name": "The Mountain Courtyard Thekkady",
+					"starRating": "5",
+					"safe": false,
+					"rating": "5.0",
+					"cityName": "Thekkady",
+					"listingHotelMetadata": {
+						"propertyType": "Resort",
+						"mmtAssured": true,
+						"suitabilityTags": []
+					}
+				}, {
+					"id": 3,
+					"name": "Uday Backwater Resort",
+					"starRating": "5",
+					"safe": true,
+					"cityName": "Allepey",
+					"listingHotelMetadata": {
+						"propertyType": "Resort",
+						"mmtAssured": true,
+						"suitabilityTags": []
+					}
+				}],
+				"categoryId": 84,
+				"maxStarRating": "5",
+				"minStarRating": "5"
+			}]
+		},
+		"activityDetails": {
+			"sightSeeingIncluded": false,
+			"sightSeeingCount": 0
+		},
+		"commuteDetails": {
+			"cityDropIncluded": false,
+			"itineraryIncluded": true,
+			"commutes": [{
+				"name": "ITR158",
+				"safe": true
+			}],
+			"sightSeeingDetails": [{
+				"id": 1,
+				"name": "Valara Waterfalls",
+				"day": 1,
+				"safe": true
+			}, {
+				"id": 7,
+				"name": "Tata Tea Museum",
+				"day": 2,
+				"safe": true
+			}, {
+				"id": 9,
+				"name": "Eravikulam national park",
+				"day": 2,
+				"safe": true
+			}, {
+				"id": 11,
+				"name": "Mattupetty Dam",
+				"day": 2,
+				"safe": true
+			}, {
+				"id": 2917,
+				"name": "Echo Point",
+				"day": 2,
+				"safe": true
+			}, {
+				"id": 2464,
+				"name": "Chillies Spice Garden",
+				"day": 3,
+				"safe": true
+			}, {
+				"id": 2466,
+				"name": "Periyar Lake",
+				"day": 3,
+				"safe": true
+			}, {
+				"id": 2472,
+				"name": "Periyar Wildlife Sanctuary",
+				"day": 3,
+				"safe": true
+			}, {
+				"id": 2474,
+				"name": "Alappuzha Beach",
+				"day": 4,
+				"safe": true
+			}, {
+				"id": 2476,
+				"name": "Mullakkal Rajarajeswari Temple",
+				"day": 4,
+				"safe": true
+			}]
+		},
+		"transferDetails": {
+			"transfersIncluded": false
+		},
+		"visaDetails": {
+			"visas": [{
+				"visaCharges": false,
+				"onArrival": false,
+				"visaSc": false
+			}]
+		},
+		"priceDetails": {
+			"categoryPrices": [{
+				"rawPrice": 17388,
+				"price": 30256,
+				"discountedPrice": 19760,
+				"serviceTax": 988,
+				"serviceTaxPercent": 5.0,
+				"tcs": 0,
+				"tcsPercent": 0,
+				"zcAmount": 0,
+				"additionalPricingDetail": {
+					"markupPercent": 74.0,
+					"tcsEnabled": false
+				},
+				"paxMultiplier": 2,
+				"paxCount": 2,
+				"departureDate": 1625682600000,
+				"categoryId": 84,
+				"couponDiscount": {
+					"type": "ECOUPON",
+					"discountAppliedType": "INSTANT",
+					"amount": {
+						"price": 20992,
+						"currency": "INR"
+					},
+					"couponCode": "INDIAHOLIDAYS",
+					"additionalDiscountDetail": {
+						"recommendationMessage": "Coupon applied successfully",
+						"blockedPaymentOptions": "GIFT_CARD_PM,MMT_REWARD_BONUS_PM",
+						"limitedTimeDeal": false,
+						"couponEndTime": 1624991400,
+						"doubleDiscountAllowed": true
+					}
+				}
+			}]
+		},
+		"tagDetails": {
+			"tags": [{
+				"tag": "HolidayType",
+				"values": ["Featured", "Multi-City"]
+			}, {
+				"tag": "Tags",
+				"values": ["Cultural", "Indigo Special", "Luxury Flash Sale"]
+			}]
+		},
+		"dealDetails": {
+			"deals": ["Coupon applied successfully"]
+		},
+		"destinationDetails": {
+			"count": 3,
+			"destinations": [{
+				"seqNo": 1,
+				"name": "Munnar",
+				"nights": 2,
+				"countryName": "India"
+			}, {
+				"seqNo": 2,
+				"name": "Thekkady",
+				"nights": 1,
+				"countryName": "India"
+			}, {
+				"seqNo": 3,
+				"name": "Allepey",
+				"nights": 1,
+				"countryName": "India"
+			}],
+			"showCountryNames": false
+		},
+		"imageDetails": {
+			"mainImage": {
+				"name": "Kerala holiday for 6 Nights.jpg",
+				"path": "/cities/1369",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1369/Kerala holiday for 6 Nights.jpg",
+				"day": 1
+			},
+			"images": [{
+				"name": "Munnar2.jpg",
+				"path": "/cities/1369",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1369/Munnar2.jpg",
+				"day": 1
+			}, {
+				"name": "large-boat-ride-munnar.jpg",
+				"path": "/cities/1369",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1369/large-boat-ride-munnar.jpg",
+				"day": 2
+			}, {
+				"name": "Thekkady2-Pranav-Bhasin.jpg",
+				"path": "/cities/1387",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1387/Thekkady2-Pranav-Bhasin.jpg",
+				"day": 3
+			}, {
+				"name": "Periyar-reservoir1.jpg",
+				"path": "/cities/1387",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1387/Periyar-reservoir1.jpg",
+				"day": 3
+			}, {
+				"name": "Thekkady1-Pranav-Bhasin.jpg",
+				"path": "/cities/1387",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1387/Thekkady1-Pranav-Bhasin.jpg",
+				"day": 3
+			}, {
+				"name": "coconut-palms-in-backwaters.jpg",
+				"path": "/cities/4945",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/4945/coconut-palms-in-backwaters.jpg",
+				"day": 4
+			}, {
+				"name": "backwater-allepey1.jpg",
+				"path": "/cities/4945",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/4945/backwater-allepey1.jpg",
+				"day": 4
+			}, {
+				"name": "coconut-palm-trees-at-backwaters.jpg",
+				"path": "/cities/4945",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/4945/coconut-palm-trees-at-backwaters.jpg",
+				"day": 4
+			}],
+			"componentImages": [{
+				"path": "https://r1imghtlak.mmtcdn.com/0414735e84cf11e8b40702a1258db9d2.jpg?&downsize=740:435&crop=740:435;17,0&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/bd7070843fcb11e9bab00242ac110002.jfif?&downsize=740:435&crop=740:435;54,0&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/c67383786b1611e7820b0a4cef95d023.jpg?&downsize=740:435&crop=740:435;54,0&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/3313604e958011e4833932e76f7e45c9.jfif?&downsize=740:435&crop=740:435;0,10&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/0f7f78bc735811e798920a4cef95d023.jpg?&downsize=740:435&crop=740:435;54,0&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/f911a610d42f11e8a60e0242ac110003.jpg?&downsize=740:435&crop=740:435;17,0&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/003b990e3a2b11e8b8830ad5649c70ca.jpg?&downsize=740:435&crop=740:435;0,36&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/2200801e79f411e8b8060ad6183b133a.jpg?&downsize=740:435&crop=740:435;0,49&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/3c5c7a4ef46511e883bb0242ac110003.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/b98834de3fcb11e9a2720242ac110002.jfif?&downsize=740:435&crop=740:435;0,53&output-format=jpg",
+				"componentType": "HOTEL"
+			}]
+		},
+		"categoryDetails": {
+			"defaultCategoryId": 84,
+			"categories": [{
+				"id": 84,
+				"name": "Luxury"
+			}]
+		},
+		"departureDetails": {
+			"cityId": 1218,
+			"cityName": "New Delhi"
+		},
+		"listingStaticData": {
+			"onlineDeal": false,
+			"premium": false
+		},
+		"inclusionDetails": {
+			"flights": true,
+			"carItinerary": true,
+			"cityDrops": false,
+			"activities": false,
+			"airportTransfers": false,
+			"visa": false
+		},
+		"videoDetails": {
+			"packageVideo": {
+				"mpdUrl": "https://juggler.makemytrip.com/juggler/stream/key/009118cf8b26051961ea710ba207f028/manifest.mpd",
+				"hlsUrl": "https://juggler.makemytrip.com/juggler/stream/key/009118cf8b26051961ea710ba207f028/master.m3u8"
+			}
+		},
+		"packageClassification": "l2",
+		"tagDestination": "Kerala",
+		"pkgCode": "",
+		"nights": 4,
+		"calVisibilityStartDays": 3,
+		"calVisibilityEndDays": 360,
+		"persuasions": ["&#x2022; <b>  5 star </b> hotels included"],
+		"genreDetails": [],
+		"depCityId": 1218
+	}, {
+		"id": 50962,
+		"name": "Luxury Honeymoon in Goa Flight Inclusive Deal 3N",
+		"packageType": "FIT",
+		"usp": "<p>Package available with flight and hotel options for all dates!</p>",
+		"branch": "DOM",
+		"onlineBookable": true,
+		"ctaPackageOnlineBookable": false,
+		"dynamic": true,
+		"safe": false,
+		"storyEnabled": false,
+		"bundled": false,
+		"flightDetails": {
+			"included": true
+		},
+		"hotelDetails": {
+			"categories": [{
+				"hotels": [{
+					"id": 1,
+					"name": "Country Inn & Suites by Radisson, Candolim Goa",
+					"starRating": "5",
+					"safe": false,
+					"rating": "4.0",
+					"cityName": "Goa",
+					"listingHotelMetadata": {
+						"propertyType": "Hotel",
+						"mmtAssured": false,
+						"suitabilityTags": []
+					}
+				}],
+				"categoryId": 84,
+				"maxStarRating": "5",
+				"minStarRating": "5"
+			}]
+		},
+		"activityDetails": {
+			"sightSeeingIncluded": true,
+			"sightSeeingCount": 3,
+			"activities": [{
+				"metaName": "Dolphin Trip",
+				"safe": true
+			}, {
+				"metaName": "North Goa Sightseeing",
+				"safe": false
+			}, {
+				"metaName": "Candle Light Dinner",
+				"safe": true
+			}]
+		},
+		"commuteDetails": {
+			"cityDropIncluded": false,
+			"itineraryIncluded": false
+		},
+		"transferDetails": {
+			"transfersIncluded": true,
+			"transfers": [{
+				"name": "Private Transfer - Goa International Airport to Hotel",
+				"safe": true,
+				"safetyRating": 1,
+				"safetyRatings": "1"
+			}, {
+				"name": "Private Transfers from Hotel to Goa International Airport",
+				"safe": true,
+				"safetyRating": 1,
+				"safetyRatings": "1"
+			}]
+		},
+		"visaDetails": {
+			"visas": [{
+				"visaCharges": false,
+				"onArrival": false,
+				"visaSc": false
+			}]
+		},
+		"priceDetails": {
+			"categoryPrices": [{
+				"rawPrice": 17744,
+				"price": 30875,
+				"discountedPrice": 20165,
+				"serviceTax": 1009,
+				"serviceTaxPercent": 5.0,
+				"tcs": 0,
+				"tcsPercent": 0,
+				"zcAmount": 0,
+				"additionalPricingDetail": {
+					"markupPercent": 74.0,
+					"tcsEnabled": false
+				},
+				"paxMultiplier": 2,
+				"paxCount": 2,
+				"departureDate": 1624732200000,
+				"categoryId": 84,
+				"couponDiscount": {
+					"type": "ECOUPON",
+					"discountAppliedType": "INSTANT",
+					"amount": {
+						"price": 21421,
+						"currency": "INR"
+					},
+					"couponCode": "INDIAHOLIDAYS",
+					"additionalDiscountDetail": {
+						"recommendationMessage": "Coupon applied successfully",
+						"blockedPaymentOptions": "GIFT_CARD_PM,MMT_REWARD_BONUS_PM",
+						"limitedTimeDeal": false,
+						"couponEndTime": 1624991400,
+						"doubleDiscountAllowed": true
+					}
+				}
+			}]
+		},
+		"tagDetails": {
+			"tags": [{
+				"tag": "Theme",
+				"values": ["Honeymoon"]
+			}, {
+				"tag": "SuitableFor",
+				"values": ["Couples"]
+			}, {
+				"tag": "Tags",
+				"values": ["Nightlife", "Indigo Special", "Best Selling Honeymoon"]
+			}]
+		},
+		"dealDetails": {
+			"deals": ["Coupon applied successfully"]
+		},
+		"destinationDetails": {
+			"count": 1,
+			"destinations": [{
+				"seqNo": 1,
+				"name": "Goa",
+				"nights": 3,
+				"countryName": "India"
+			}],
+			"showCountryNames": false
+		},
+		"imageDetails": {
+			"mainImage": {
+				"name": "Enjoy a perfect romantic vacation in Goa.jpg",
+				"title": "Delicious Bebinca",
+				"path": "/cities/1328",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/Enjoy a perfect romantic vacation in Goa.jpg"
+			},
+			"images": [{
+				"name": "Goa Beach.jpeg",
+				"title": "",
+				"path": "/cities/1328",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/Goa Beach.jpeg",
+				"day": 1
+			}, {
+				"name": "Ozran Vagator Beach Goa.jpg",
+				"title": "",
+				"path": "/cities/1328",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/Ozran Vagator Beach Goa.jpg",
+				"day": 1
+			}],
+			"componentImages": [{
+				"path": "https://r1imghtlak.mmtcdn.com/5d53235aad1c11e887c00a035d9f8d84.jpg?&downsize=740:435&crop=740:435;0,30&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://rimgak.mmtcdn.com/holidays/images/activitiesImagesNew/activity/goi/ACT468739.jpg",
+				"componentType": "ACTIVITY"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/0616378cdcaa11e794f70a9df65c8753.jpg?&downsize=740:435&crop=740:435;0,6&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://rimgak.mmtcdn.com/holidays/images/activitiesImages/goi/ACT212800.jpg",
+				"componentType": "ACTIVITY"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/5e48f8fcad1c11e8aa470a3f402ea5b6.jpg?&downsize=740:435&crop=740:435;30,0&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://hldak.mmtcdn.com/prod-s3-activity-templates/activitiesImagesFinal/activity/GOI/ACT468482_3.jpg",
+				"componentType": "ACTIVITY"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/73e370fedcaa11e7af470a9df65c8753.jpg?&downsize=740:435&crop=740:435;36,0&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/f4e2756af6b311e7b0290a4cef95d023.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/f2cb0978dca911e7bbd70a9df65c8753.jpg?&downsize=740:435&crop=740:435;0,5&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/1adf7750dcaa11e78fee02755708f0b3.jpg?&downsize=740:435&crop=740:435;46,0&output-format=jpg",
+				"componentType": "HOTEL"
+			}]
+		},
+		"categoryDetails": {
+			"defaultCategoryId": 84,
+			"categories": [{
+				"id": 84,
+				"name": "Luxury"
+			}]
+		},
+		"departureDetails": {
+			"cityId": 1218,
+			"cityName": "New Delhi"
+		},
+		"listingStaticData": {
+			"onlineDeal": false,
+			"premium": false
+		},
+		"inclusionDetails": {
+			"flights": true,
+			"carItinerary": false,
+			"cityDrops": false,
+			"activities": true,
+			"airportTransfers": true,
+			"visa": false
+		},
+		"packageClassification": "l2",
+		"tagDestination": "Goa",
+		"pkgCode": "",
+		"nights": 3,
+		"calVisibilityStartDays": 10,
+		"calVisibilityEndDays": 360,
+		"persuasions": ["&#x2022; Candle Light Dinner at Taj ", "• Getaway to the shores of Goa, in the lap of luxury!"],
+		"genreDetails": [],
+		"campaign": ["Honeymoon", "Honeymoon"],
+		"depCityId": 1218
+	}, {
+		"id": 41179,
+		"name": "Bandos Vacation",
+		"packageType": "FIT",
+		"usp": "<p>Suitable for Couple &amp; Families | Speedboat Transfers included | For Honeymooners Fruit Basket &amp; Bottle of wine&#160; will be given during stay |Multiple variety of Water Sports to choose from</p>",
+		"videoUrl": "https://juggler.makemytrip.com/juggler/stream/key/b6a9539c-c90e-41c5-af55-0ec4a54a61cc/manifest.mpd",
+		"branch": "OBT",
+		"onlineBookable": true,
+		"ctaPackageOnlineBookable": false,
+		"dynamic": true,
+		"safe": false,
+		"storyEnabled": false,
+		"bundled": false,
+		"flightDetails": {
+			"included": true
+		},
+		"hotelDetails": {
+			"categories": [{
+				"hotels": [{
+					"id": 1,
+					"name": "Bandos Maldives",
+					"starRating": "4",
+					"safe": false,
+					"rating": "4.5",
+					"cityName": "Maldives",
+					"listingHotelMetadata": {
+						"propertyType": "Resort",
+						"mmtAssured": true,
+						"suitabilityTags": []
+					}
+				}],
+				"categoryId": 4,
+				"maxStarRating": "4",
+				"minStarRating": "4"
+			}]
+		},
+		"activityDetails": {
+			"sightSeeingIncluded": true,
+			"sightSeeingCount": 1,
+			"activities": [{
+				"metaName": "Speedboat Transfer",
+				"safe": false
+			}]
+		},
+		"commuteDetails": {
+			"cityDropIncluded": false,
+			"itineraryIncluded": false
+		},
+		"transferDetails": {
+			"transfersIncluded": false
+		},
+		"visaDetails": {
+			"visas": [{
+				"visaCharges": false,
+				"onArrival": true,
+				"visaSc": false
+			}]
+		},
+		"priceDetails": {
+			"categoryPrices": [{
+				"rawPrice": 36691,
+				"price": 63843,
+				"discountedPrice": 41695,
+				"serviceTax": 2085,
+				"serviceTaxPercent": 5.0,
+				"tcs": 0,
+				"tcsPercent": 0,
+				"zcAmount": 0,
+				"additionalPricingDetail": {
+					"markupPercent": 74.0,
+					"tcsEnabled": true
+				},
+				"paxMultiplier": 2,
+				"paxCount": 2,
+				"departureDate": 1624818600000,
+				"categoryId": 4,
+				"couponDiscount": {
+					"type": "ECOUPON",
+					"discountAppliedType": "INSTANT",
+					"amount": {
+						"price": 44296,
+						"currency": "INR"
+					},
+					"couponCode": "INDIAHOLIDAYS",
+					"additionalDiscountDetail": {
+						"recommendationMessage": "Coupon applied successfully",
+						"blockedPaymentOptions": "GIFT_CARD_PM,MMT_REWARD_BONUS_PM",
+						"limitedTimeDeal": false,
+						"couponEndTime": 1624991400,
+						"doubleDiscountAllowed": true
+					}
+				}
+			}]
+		},
+		"tagDetails": {
+			"tags": [{
+				"tag": "HolidayType",
+				"values": ["Handpicked"]
+			}, {
+				"tag": "Theme",
+				"values": ["Hot & New"]
+			}, {
+				"tag": "SuitableFor",
+				"values": ["Families"]
+			}, {
+				"tag": "Tags",
+				"values": ["Super deal", "Best Selling Online"]
+			}]
+		},
+		"dealDetails": {
+			"deals": ["Coupon applied successfully"]
+		},
+		"destinationDetails": {
+			"count": 1,
+			"destinations": [{
+				"seqNo": 1,
+				"name": "Maldives",
+				"nights": 4,
+				"countryName": "Maldives"
+			}],
+			"showCountryNames": false
+		},
+		"imageDetails": {
+			"mainImage": {
+				"name": "beach-seashore-maldives.jpg",
+				"path": "/cities/1993",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1993/beach-seashore-maldives.jpg",
+				"day": 1
+			},
+			"images": [{
+				"name": "maldives-coral.jpg",
+				"path": "/cities/1993",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1993/maldives-coral.jpg",
+				"day": 1
+			}, {
+				"name": "Maldives1.jpg",
+				"path": "/cities/1993",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1993/Maldives1.jpg",
+				"day": 1
+			}, {
+				"name": "Best-Seller-Maldives_2.jpg",
+				"path": "/cities/1993",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1993/Best-Seller-Maldives_2.jpg",
+				"day": 2
+			}, {
+				"name": "Maldives-hut.jpg",
+				"path": "/cities/1993",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1993/Maldives-hut.jpg",
+				"day": 2
+			}, {
+				"name": "Maldives2.jpg",
+				"path": "/cities/1993",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1993/Maldives2.jpg",
+				"day": 2
+			}, {
+				"name": "K.jpg",
+				"path": "/cities/1993",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1993/K.jpg",
+				"day": 3
+			}, {
+				"name": "Maldives-sunset.jpg",
+				"path": "/cities/1993",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1993/Maldives-sunset.jpg",
+				"day": 3
+			}, {
+				"name": "Maldives3.jpg",
+				"path": "/cities/1993",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1993/Maldives3.jpg",
+				"day": 3
+			}, {
+				"name": "maldives-beach.jpg",
+				"path": "/cities/1993",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1993/maldives-beach.jpg",
+				"day": 4
+			}, {
+				"name": "Maldives.jpg",
+				"path": "/cities/1993",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1993/Maldives.jpg",
+				"day": 4
+			}, {
+				"name": "Maldives4.jpg",
+				"path": "/cities/1993",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1993/Maldives4.jpg",
+				"day": 4
+			}],
+			"componentImages": [{
+				"path": "https://r1imghtlak.mmtcdn.com/b2f7ed8e426e11ea96490242ac110008.jpg?&downsize=740:435&crop=740:435;17,0&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://rimgak.mmtcdn.com/holidays/images/activitiesImages/generic/speedboat.jpg",
+				"componentType": "ACTIVITY"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/643ae464d01d11e7a9330a337eb60284.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://rimgak.mmtcdn.com/holidays/images/activitiesImages/generic/speedboat.jpg",
+				"componentType": "ACTIVITY"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/ece7791422f311ea965e0242ac110002.jpg?&downsize=740:435&crop=740:435;0,60&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/61e1d7aed01d11e7bdee0224510f5e5b.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/65b8eeeed01d11e78cbb02755708f0b3.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/f2494edc22f311ea958f0242ac110002.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/635898f2d01d11e7af260224510f5e5b.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://r1imghtlak.mmtcdn.com/684a341ad01d11e787e60a9df65c8753.jpg?&downsize=740:435&crop=740:435;0,29&output-format=jpg",
+				"componentType": "HOTEL"
+			}]
+		},
+		"categoryDetails": {
+			"defaultCategoryId": 4,
+			"categories": [{
+				"id": 4,
+				"name": "Deluxe"
+			}]
+		},
+		"departureDetails": {
+			"cityId": 1218,
+			"cityName": "New Delhi"
+		},
+		"listingStaticData": {
+			"onlineDeal": false,
+			"premium": false
+		},
+		"inclusionDetails": {
+			"flights": true,
+			"carItinerary": false,
+			"cityDrops": false,
+			"activities": true,
+			"airportTransfers": false,
+			"visa": false
+		},
+		"videoDetails": {
+			"packageVideo": {
+				"mpdUrl": "https://juggler.makemytrip.com/juggler/stream/key/b6a9539c-c90e-41c5-af55-0ec4a54a61cc/manifest.mpd",
+				"hlsUrl": "https://juggler.makemytrip.com/juggler/stream/key/b6a9539c-c90e-41c5-af55-0ec4a54a61cc/master.m3u8"
+			}
+		},
+		"packageClassification": "l3",
+		"tagDestination": "Maldives",
+		"pkgCode": "",
+		"nights": 4,
+		"calVisibilityStartDays": 19,
+		"calVisibilityEndDays": 360,
+		"genreDetails": [],
+		"depCityId": 1218
+	}, {
+		"id": 17738,
+		"name": "St Petersburg Holiday - 4N Stay with Flights",
+		"packageType": "FIT",
+		"usp": "",
+		"branch": "OBT",
+		"onlineBookable": true,
+		"ctaPackageOnlineBookable": false,
+		"dynamic": true,
+		"safe": false,
+		"storyEnabled": false,
+		"bundled": false,
+		"flightDetails": {
+			"included": true
+		},
+		"hotelDetails": {
+			"categories": [{
+				"hotels": [{
+					"id": 1,
+					"name": "Asteria Hotel",
+					"starRating": "3",
+					"safe": false,
+					"rating": "4.0",
+					"cityName": "Saint Petersburg",
+					"listingHotelMetadata": {
+						"propertyType": "Hotel",
+						"mmtAssured": false,
+						"suitabilityTags": []
+					}
+				}],
+				"categoryId": 2,
+				"maxStarRating": "3",
+				"minStarRating": "3"
+			}, {
+				"hotels": [{
+					"id": 2,
+					"name": "Radisson Sonya Hotel",
+					"starRating": "4",
+					"safe": false,
+					"rating": "4.0",
+					"cityName": "Saint Petersburg",
+					"listingHotelMetadata": {
+						"propertyType": "Hotel",
+						"mmtAssured": false,
+						"suitabilityTags": []
+					}
+				}],
+				"categoryId": 4,
+				"maxStarRating": "4",
+				"minStarRating": "4"
+			}, {
+				"hotels": [{
+					"id": 3,
+					"name": "Park Inn by Radisson Pribaltiyskaya Hotel and Congress Centre",
+					"starRating": "4",
+					"safe": false,
+					"rating": "3.5",
+					"cityName": "Saint Petersburg",
+					"listingHotelMetadata": {
+						"propertyType": "Hotel",
+						"mmtAssured": false,
+						"suitabilityTags": []
+					}
+				}],
+				"categoryId": 264,
+				"maxStarRating": "4",
+				"minStarRating": "4"
+			}, {
+				"hotels": [{
+					"id": 4,
+					"name": "Radisson Sonya Hotel",
+					"starRating": "4",
+					"safe": false,
+					"rating": "4.0",
+					"cityName": "Saint Petersburg",
+					"listingHotelMetadata": {
+						"propertyType": "Hotel",
+						"mmtAssured": false,
+						"suitabilityTags": []
+					}
+				}],
+				"categoryId": 606,
+				"maxStarRating": "4",
+				"minStarRating": "4"
+			}]
+		},
+		"activityDetails": {
+			"sightSeeingIncluded": false,
+			"sightSeeingCount": 0
+		},
+		"commuteDetails": {
+			"cityDropIncluded": false,
+			"itineraryIncluded": false
+		},
+		"transferDetails": {
+			"transfersIncluded": true,
+			"transfers": [{
+				"name": "Transfer from Pulkovo Airport to the hotel within St. Petersburg; 1-way  (Private driver without English speaking  assistant) ",
+				"safe": false,
+				"safetyRating": 1,
+				"safetyRatings": "1"
+			}]
+		},
+		"visaDetails": {
+			"visas": [{
+				"visaCharges": true,
+				"onArrival": false,
+				"visaSc": false
+			}]
+		},
+		"priceDetails": {
+			"categoryPrices": [{
+				"rawPrice": 62568,
+				"price": 108869,
+				"discountedPrice": 71101,
+				"serviceTax": 3556,
+				"serviceTaxPercent": 5.0,
+				"tcs": 0,
+				"tcsPercent": 0,
+				"zcAmount": 0,
+				"additionalPricingDetail": {
+					"markupPercent": 74.0,
+					"tcsEnabled": true
+				},
+				"paxMultiplier": 2,
+				"paxCount": 2,
+				"departureDate": 1632681000000,
+				"categoryId": 2,
+				"couponDiscount": {
+					"type": "ECOUPON",
+					"discountAppliedType": "INSTANT",
+					"amount": {
+						"price": 75536,
+						"currency": "INR"
+					},
+					"couponCode": "INDIAHOLIDAYS",
+					"additionalDiscountDetail": {
+						"recommendationMessage": "Coupon applied successfully",
+						"blockedPaymentOptions": "GIFT_CARD_PM,MMT_REWARD_BONUS_PM",
+						"limitedTimeDeal": false,
+						"couponEndTime": 1624991400,
+						"doubleDiscountAllowed": true
+					}
+				}
+			}, {
+				"rawPrice": 74523,
+				"price": 129671,
+				"discountedPrice": 84687,
+				"serviceTax": 4235,
+				"serviceTaxPercent": 5.0,
+				"tcs": 0,
+				"tcsPercent": 0,
+				"zcAmount": 0,
+				"additionalPricingDetail": {
+					"markupPercent": 74.0,
+					"tcsEnabled": true
+				},
+				"paxMultiplier": 2,
+				"paxCount": 2,
+				"departureDate": 1632681000000,
+				"categoryId": 4,
+				"couponDiscount": {
+					"type": "ECOUPON",
+					"discountAppliedType": "INSTANT",
+					"amount": {
+						"price": 89969,
+						"currency": "INR"
+					},
+					"couponCode": "INDIAHOLIDAYS",
+					"additionalDiscountDetail": {
+						"recommendationMessage": "Coupon applied successfully",
+						"blockedPaymentOptions": "GIFT_CARD_PM,MMT_REWARD_BONUS_PM",
+						"limitedTimeDeal": false,
+						"couponEndTime": 1624991400,
+						"doubleDiscountAllowed": true
+					}
+				}
+			}, {
+				"rawPrice": 66593,
+				"price": 115872,
+				"discountedPrice": 75675,
+				"serviceTax": 3784,
+				"serviceTaxPercent": 5.0,
+				"tcs": 0,
+				"tcsPercent": 0,
+				"zcAmount": 0,
+				"additionalPricingDetail": {
+					"markupPercent": 74.0,
+					"tcsEnabled": true
+				},
+				"paxMultiplier": 2,
+				"paxCount": 2,
+				"departureDate": 1632681000000,
+				"categoryId": 264,
+				"couponDiscount": {
+					"type": "ECOUPON",
+					"discountAppliedType": "INSTANT",
+					"amount": {
+						"price": 80395,
+						"currency": "INR"
+					},
+					"couponCode": "INDIAHOLIDAYS",
+					"additionalDiscountDetail": {
+						"recommendationMessage": "Coupon applied successfully",
+						"blockedPaymentOptions": "GIFT_CARD_PM,MMT_REWARD_BONUS_PM",
+						"limitedTimeDeal": false,
+						"couponEndTime": 1624991400,
+						"doubleDiscountAllowed": true
+					}
+				}
+			}, {
+				"rawPrice": 74523,
+				"price": 129671,
+				"discountedPrice": 84687,
+				"serviceTax": 4235,
+				"serviceTaxPercent": 5.0,
+				"tcs": 0,
+				"tcsPercent": 0,
+				"zcAmount": 0,
+				"additionalPricingDetail": {
+					"markupPercent": 74.0,
+					"tcsEnabled": true
+				},
+				"paxMultiplier": 2,
+				"paxCount": 2,
+				"departureDate": 1632681000000,
+				"categoryId": 606,
+				"couponDiscount": {
+					"type": "ECOUPON",
+					"discountAppliedType": "INSTANT",
+					"amount": {
+						"price": 89969,
+						"currency": "INR"
+					},
+					"couponCode": "INDIAHOLIDAYS",
+					"additionalDiscountDetail": {
+						"recommendationMessage": "Coupon applied successfully",
+						"blockedPaymentOptions": "GIFT_CARD_PM,MMT_REWARD_BONUS_PM",
+						"limitedTimeDeal": false,
+						"couponEndTime": 1624991400,
+						"doubleDiscountAllowed": true
+					}
+				}
+			}]
+		},
+		"tagDetails": {
+			"tags": [{
+				"tag": "HolidayType",
+				"values": ["Weekend Getaways"]
+			}]
+		},
+		"dealDetails": {
+			"deals": ["Coupon applied successfully"]
+		},
+		"destinationDetails": {
+			"count": 1,
+			"destinations": [{
+				"seqNo": 1,
+				"name": "Saint Petersburg",
+				"nights": 4,
+				"countryName": "Russia"
+			}],
+			"showCountryNames": false
+		},
+		"imageDetails": {
+			"mainImage": {
+				"name": "palace-square-st-petersburg.jpg",
+				"title": "",
+				"path": "/cities/6143",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/6143/palace-square-st-petersburg.jpg"
+			},
+			"images": [{
+				"name": "Church of the Saviour on Spilled Blood.jpg",
+				"title": "Church of the Saviour on Spilled Blood",
+				"path": "/cities/6143",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/6143/Church of the Saviour on Spilled Blood.jpg",
+				"day": 1
+			}, {
+				"name": "St-Petersburg.jpg",
+				"title": "",
+				"path": "/cities/6143",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/6143/St-Petersburg.jpg",
+				"day": 2
+			}, {
+				"name": "Historical Peter and Paul Fortress in Saint Petersburg.jpg",
+				"title": "Church of the Saviour on Spilled Blood",
+				"path": "/cities/6143",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/6143/Historical Peter and Paul Fortress in Saint Petersburg.jpg",
+				"day": 3
+			}, {
+				"name": "Panorama of Saint Petersburg.jpg",
+				"title": "Church of the Saviour on Spilled Blood",
+				"path": "/cities/6143",
+				"fullPath": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/6143/Panorama of Saint Petersburg.jpg",
+				"day": 4
+			}],
+			"componentImages": [{
+				"path": "https://media.expedia.com/hotels/2000000/1580000/1577100/1577082/ec47ed1f_z.jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://media.expedia.com/hotels/2000000/1580000/1577100/1577082/33790381_z.jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://media.expedia.com/hotels/2000000/1580000/1577100/1577082/c3cc4fcb_z.jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://media.expedia.com/hotels/2000000/1580000/1577100/1577082/0ad37690_z.jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://media.expedia.com/hotels/2000000/1580000/1577100/1577082/fac90c06_z.jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://media.expedia.com/hotels/2000000/1580000/1577100/1577082/539431df_z.jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://media.expedia.com/hotels/2000000/1580000/1577100/1577082/d2ee28f3_z.jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://media.expedia.com/hotels/2000000/1580000/1577100/1577082/37f09128_z.jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://media.expedia.com/hotels/2000000/1580000/1577100/1577082/0b24f68b_z.jpg",
+				"componentType": "HOTEL"
+			}, {
+				"path": "https://media.expedia.com/hotels/2000000/1580000/1577100/1577082/7e28965c_z.jpg",
+				"componentType": "HOTEL"
+			}]
+		},
+		"categoryDetails": {
+			"defaultCategoryId": 2,
+			"categories": [{
+				"id": 2,
+				"name": "Standard"
+			}, {
+				"id": 4,
+				"name": "Deluxe"
+			}, {
+				"id": 264,
+				"name": "Luxury"
+			}, {
+				"id": 606,
+				"name": "Premium"
+			}]
+		},
+		"departureDetails": {
+			"cityId": 1218,
+			"cityName": "New Delhi"
+		},
+		"listingStaticData": {
+			"onlineDeal": false,
+			"premium": false
+		},
+		"inclusionDetails": {
+			"flights": true,
+			"carItinerary": false,
+			"cityDrops": false,
+			"activities": false,
+			"airportTransfers": true,
+			"visa": true
+		},
+		"packageClassification": "l1",
+		"tagDestination": "Russia",
+		"pkgCode": "",
+		"nights": 4,
+		"calVisibilityStartDays": 15,
+		"calVisibilityEndDays": 360,
+		"persuasions": ["&#x2022; Flight-inclusive holiday package to Russia!", "&#x2022; Best seller, super-saver package for longer stay."],
+		"genreDetails": [],
+		"depCityId": 1218
+	}]
+}
