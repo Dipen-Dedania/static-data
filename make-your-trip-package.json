@@ -1,0 +1,73 @@
+[{
+		"cityName": "Bahamas Islands",
+		"tourDate": "24 April- 02 May, 2021",
+		"category": "Category/Ocean",
+		"temp": 18,
+		"cityImg": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1993/Suvadiva%20Dive%20Centre%203.jpg",
+		"price": "$2950",
+		"isBookmark": false
+	},
+	{
+		"cityName": "Mykonos Island",
+		"tourDate": "18 April- 25 April, 2021",
+		"category": "Category/Europe Sea",
+		"temp": 26,
+		"cityImg": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1329/Iconic%20Christ%20Church%20in%20Shimla.jpg",
+		"price": "$3400",
+		"isBookmark": false
+	},
+	{
+		"cityName": "Serene Ladakh with Turtuk Excursion",
+		"tourDate": "18 April- 26 April, 2021",
+		"category": "Tracking",
+		"temp": 16,
+		"cityImg": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/1200x658_Leh_1_Vivek-Chauhan.jpg",
+		"price": "$600",
+		"isBookmark": false
+	},
+	{
+		"cityName": "Experience the Spirit of Buddha in Leh",
+		"tourDate": "18 April- 20 April, 2021",
+		"category": "Tracking",
+		"temp": 16,
+		"cityImg": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/Leh_2.jpg",
+		"price": "$500",
+		"isBookmark": false
+	},
+	{
+		"cityName": "Amazing Goa",
+		"tourDate": "19 April- 22 April, 2021",
+		"category": "India/Sea",
+		"temp": 22,
+		"cityImg": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/Y.jpg",
+		"price": "$800",
+		"isBookmark": false
+	},
+	{
+		"cityName": "Munnar with Thekkady",
+		"tourDate": "19 April- 22 April, 2021",
+		"category": "India/Hill",
+		"temp": 21,
+		"cityImg": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1387/Thekkady.jpg",
+		"price": "$800",
+		"isBookmark": true
+	},
+	{
+		"cityName": "Kerala",
+		"tourDate": "19 April- 22 April, 2021",
+		"category": "India/Sea",
+		"temp": 22,
+		"cityImg": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/4945/backwater-allepey1.jpg",
+		"price": "$800",
+		"isBookmark": false
+	},
+	{
+		"cityName": "Bandos Vacation",
+		"tourDate": "15 April- 22 April, 2021",
+		"category": "India/Sea",
+		"temp": 22,
+		"cityImg": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1993/Maldives-sunset.jpg",
+		"price": "$1800",
+		"isBookmark": false
+	}
+]
