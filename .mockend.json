@@ -1,22 +1,22 @@
-{
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
-  },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
-  },
-  "Packages": {
-    "cityName": "string",
-		"tourDate": "date",
-		"category": "string",
-		"temp": "int",
-		"cityImg": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1993/Suvadiva%20Dive%20Centre%203.jpg",
-		"price": "int",
-		"isBookmark": "boolean"
+  {
+  	"Post": {
+  		"title": "string",
+  		"views": "int",
+  		"published": "boolean",
+  		"createdAt": "date",
+  		"comments": "Comment[]"
+  	},
+  	"Comment": {
+  		"body": "string",
+  		"post": "Post"
+  	},
+  	"Packages": {
+  		"cityName": "string",
+  		"tourDate": "date",
+  		"category": "string",
+  		"temp": "int",
+  		"cityImg": "string",
+  		"price": "int",
+  		"isBookmark": "boolean"
+  	}
   }
-}
