@@ -10,7 +10,7 @@
   		"body": "string",
   		"post": "Post"
   	},
-  	"Packages": {
+  	"Package": {
   		"cityName": "string",
   		"tourDate": "date",
   		"category": "string",
