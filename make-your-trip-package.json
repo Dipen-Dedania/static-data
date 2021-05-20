@@ -1,6 +1,6 @@
 [{
 		"cityName": "Bahamas Islands",
-		"tourDate": "24 April- 02 May, 2021",
+		"tourDate": "24 April-02 May, 2021",
 		"category": "Category/Ocean",
 		"temp": 18,
 		"cityImg": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1993/Suvadiva%20Dive%20Centre%203.jpg",
@@ -9,7 +9,7 @@
 	},
 	{
 		"cityName": "Mykonos Island",
-		"tourDate": "18 April- 25 April, 2021",
+		"tourDate": "18 April-25 April, 2021",
 		"category": "Category/Europe Sea",
 		"temp": 26,
 		"cityImg": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1329/Iconic%20Christ%20Church%20in%20Shimla.jpg",
@@ -18,7 +18,7 @@
 	},
 	{
 		"cityName": "Serene Ladakh with Turtuk Excursion",
-		"tourDate": "18 April- 26 April, 2021",
+		"tourDate": "20 April-26 April, 2021",
 		"category": "Tracking",
 		"temp": 16,
 		"cityImg": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/1200x658_Leh_1_Vivek-Chauhan.jpg",
@@ -27,7 +27,7 @@
 	},
 	{
 		"cityName": "Experience the Spirit of Buddha in Leh",
-		"tourDate": "18 April- 20 April, 2021",
+		"tourDate": "18 April-20 April, 2021",
 		"category": "Tracking",
 		"temp": 16,
 		"cityImg": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/Leh_2.jpg",
@@ -36,7 +36,7 @@
 	},
 	{
 		"cityName": "Amazing Goa",
-		"tourDate": "19 April- 22 April, 2021",
+		"tourDate": "19 April-22 April, 2021",
 		"category": "India/Sea",
 		"temp": 22,
 		"cityImg": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/Y.jpg",
@@ -45,7 +45,7 @@
 	},
 	{
 		"cityName": "Munnar with Thekkady",
-		"tourDate": "19 April- 22 April, 2021",
+		"tourDate": "22 April-28 April, 2021",
 		"category": "India/Hill",
 		"temp": 21,
 		"cityImg": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1387/Thekkady.jpg",
@@ -54,7 +54,7 @@
 	},
 	{
 		"cityName": "Kerala",
-		"tourDate": "19 April- 22 April, 2021",
+		"tourDate": "19 April-22 April, 2021",
 		"category": "India/Sea",
 		"temp": 22,
 		"cityImg": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/4945/backwater-allepey1.jpg",
@@ -63,11 +63,83 @@
 	},
 	{
 		"cityName": "Bandos Vacation",
-		"tourDate": "15 April- 22 April, 2021",
+		"tourDate": "15 April-22 April, 2021",
 		"category": "India/Sea",
 		"temp": 22,
 		"cityImg": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1993/Maldives-sunset.jpg",
 		"price": "$1800",
+		"isBookmark": false
+	},
+	{
+		"cityName": "Myanmar",
+		"tourDate": "24 June-30 June, 2021",
+		"category": "Category/Ocean",
+		"temp": 30,
+		"cityImg": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/2083/Shwedagon-Pagoda.jpg?crop=381:300&downsize=381:300",
+		"price": "$2950",
+		"isBookmark": false
+	},
+	{
+		"cityName": "Mandalay",
+		"tourDate": "18 May-22 May, 2021",
+		"category": "Category/Hill",
+		"temp": 26,
+		"cityImg": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/4901/The-Temples-of-bagan.jpg?crop=381:300&downsize=381:300",
+		"price": "$5400",
+		"isBookmark": false
+	},
+	{
+		"cityName": "Biyadhoo",
+		"tourDate": "18 April-26 April, 2021",
+		"category": "Tracking",
+		"temp": 16,
+		"cityImg": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1993/maldives_126848088.jpg?crop=381:300&downsize=381:300",
+		"price": "$1600",
+		"isBookmark": false
+	},
+	{
+		"cityName": "Gataway to Manali",
+		"tourDate": "8 May-16 May, 2021",
+		"category": "Tracking",
+		"temp": 16,
+		"cityImg": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/plunge_pool.jpg?crop=381:300&downsize=381:300",
+		"price": "$500",
+		"isBookmark": false
+	},
+	{
+		"cityName": "Luxury in Andaman",
+		"tourDate": "19 July-22 July, 2021",
+		"category": "India/Sea",
+		"temp": 22,
+		"cityImg": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1328/plunge_pool.jpg?crop=381:300&downsize=381:300",
+		"price": "$3800",
+		"isBookmark": false
+	},
+	{
+		"cityName": "Kashmir Splendor with Gulmarg Excursion",
+		"tourDate": "22 August-26 August, 2021",
+		"category": "India/Hill",
+		"temp": 10,
+		"cityImg": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1221/pahalgam1.jpg?crop=381:300&downsize=381:300",
+		"price": "$2800",
+		"isBookmark": true
+	},
+	{
+		"cityName": "Sikkim & Darjeeling",
+		"tourDate": "19 April-22 April, 2021",
+		"category": "India/Sea",
+		"temp": 22,
+		"cityImg": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1215/Gangtok.jpg?crop=381:300&downsize=381:300",
+		"price": "$1800",
+		"isBookmark": false
+	},
+	{
+		"cityName": "Amazing Ladakh",
+		"tourDate": "15 April- 22 April, 2021",
+		"category": "India/Ocean",
+		"temp": 22,
+		"cityImg": "https://hldak.mmtcdn.com/prod-s3-hld-hpcmsadmin/holidays/images/cities/1185/Zanskar.jpg?crop=381:300&downsize=381:300",
+		"price": "$900",
 		"isBookmark": false
 	}
 ]
