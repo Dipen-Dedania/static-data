@@ -1,0 +1,22 @@
+{
+  "airports": [
+    { "Airport": "Indira Gandhi International Airport", "City": "Delhi", "IATA": "DEL", "Type": "International" },
+    { "Airport": "Chhatrapati Shivaji Maharaj International Airport", "City": "Mumbai", "IATA": "BOM", "Type": "International" },
+    { "Airport": "Kempegowda International Airport", "City": "Bengaluru", "IATA": "BLR", "Type": "International" },
+    { "Airport": "Chennai International Airport", "City": "Chennai", "IATA": "MAA", "Type": "International" },
+    { "Airport": "Netaji Subhas Chandra Bose International Airport", "City": "Kolkata", "IATA": "CCU", "Type": "International" },
+    { "Airport": "Rajiv Gandhi International Airport", "City": "Hyderabad", "IATA": "HYD", "Type": "International" },
+    { "Airport": "Sardar Vallabhbhai Patel International Airport", "City": "Ahmedabad", "IATA": "AMD", "Type": "International" },
+    { "Airport": "Cochin International Airport", "City": "Kochi", "IATA": "COK", "Type": "International" },
+    { "Airport": "Trivandrum International Airport", "City": "Thiruvananthapuram", "IATA": "TRV", "Type": "International" },
+    { "Airport": "Goa International Airport", "City": "Goa", "IATA": "GOX", "Type": "International" },
+    { "Airport": "Dabolim Airport", "City": "Goa", "IATA": "GOI", "Type": "International" },
+    { "Airport": " Chaudhary Charan Singh International Airport", "City": "Lucknow", "IATA": "LKO", "Type": "International" },
+    { "Airport": "Jaipur International Airport", "City": "Jaipur", "IATA": "JAI", "Type": "International" },
+    { "Airport": "Chandigarh International Airport", "City": "Chandigarh", "IATA": "IXC", "Type": "International" },
+    { "Airport": "Sheikh Zayed International Airport", "City": "Srinagar", "IATA": "SXR", "Type": "Domestic" },
+    { "Airport": " Kushabhau Thakre International Airport", "City": "Nagpur", "IATA": "NAG", "Type": "International" },
+    { "Airport": "Indore Airport", "City": "Indore", "IATA": "IDR", "Type": "Domestic" },
+    { "Airport": " lal Bahadur Shastri International Airport", "City": "Varanasi", "IATA": "VNS", "Type": "International" }
+  ]
+}

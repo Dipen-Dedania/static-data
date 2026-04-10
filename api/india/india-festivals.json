@@ -1,0 +1,16 @@
+{
+  "festivals": [
+    { "Name": "Diwali", "Significance": "Festival of Lights", "Month": "October/November", "Region": "National" },
+    { "Name": "Holi", "Significance": "Festival of Colors", "Month": "March", "Region": "National" },
+    { "Name": "Eid al-Fitr", "Significance": "End of Ramadan", "Month": "Varies", "Region": "National" },
+    { "Name": "Christmas", "Significance": "Birth of Jesus Christ", "Month": "December", "Region": "National" },
+    { "Name": "Pongal", "Significance": "Harvest Festival", "Month": "January", "Region": "Tamil Nadu" },
+    { "Name": "Onam", "Significance": "Harvest Festival", "Month": "August/September", "Region": "Kerala" },
+    { "Name": "Durga Puja", "Significance": "Victory of Durga over Mahishasura", "Month": "September/October", "Region": "West Bengal" },
+    { "Name": "Ganesh Chaturthi", "Significance": "Birth of Lord Ganesha", "Month": "August/September", "Region": "Maharashtra" },
+    { "Name": "Baisakhi", "Significance": "Harvest Festival / Sikh New Year", "Month": "April", "Region": "Punjab" },
+    { "Name": "Navratri", "Significance": "Nine nights of Goddess Durga", "Month": "September/October", "Region": "Gujarat/National" },
+    { "Name": "Hemis Festival", "Significance": "Birthday of Guru Padmasambhava", "Month": "June/July", "Region": "Ladakh" },
+    { "Name": "Hornbill Festival", "Significance": "Cultural festival of Nagas", "Month": "December", "Region": "Nagaland" }
+  ]
+}

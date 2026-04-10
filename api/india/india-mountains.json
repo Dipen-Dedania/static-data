@@ -1,0 +1,14 @@
+{
+  "mountains": [
+    { "Name": "Kanchenjunga", "Range": "Himalayas", "Height": "8,586m" },
+    { "Name": "Nanda Devi", "Range": "Himalayas", "Height": "7,816m" },
+    { "Name": "Kamet", "Range": "Himalayas", "Height": "7,756m" },
+    { "Name": "Saltoro Peak", "Range": "Karakoram", "Height": "7,741m" },
+    { "Name": "Saser Kangri", "Range": "Karakoram", "Height": "7,672m" },
+    { "Name": "Anamudi", "Range": "Western Ghats", "Height": "2,695m" },
+    { "Name": "Doddabetta", "Range": "Nilgiri Hills", "Height": "2,637m" },
+    { "Name": "Mahendragiri", "Range": "Eastern Ghats", "Height": "1,501m" },
+    { "Name": "Gurashikar", "Range": "Aravalli Range", "Height": "1,722m" },
+    { "Name": "Dhupgarh", "Range": "Satpura Range", "Height": "1,350m" }
+  ]
+}

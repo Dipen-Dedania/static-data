@@ -1,0 +1,24 @@
+{
+  "unesco_sites": [
+    { "Site": "Ajanta Caves", "Location": "Maharashtra", "Year": 1983, "Category": "Cultural" },
+    { "Site": "Ellora Caves", "Location": "Maharashtra", "Year": 1983, "Category": "Cultural" },
+    { "Site": "Agra Fort", "Location": "Uttar Pradesh", "Year": 1983, "Category": "Cultural" },
+    { "Site": "Taj Mahal", "Location": "Uttar Pradesh", "Year": 1983, "Category": "Cultural" },
+    { "Site": "Sun Temple, Konark", "Location": "Odisha", "Year": 1984, "Category": "Cultural" },
+    { "Site": "Group of Monuments at Hampi", "Location": "Karnataka", "Year": 1986, "Category": "Cultural" },
+    { "Site": "Khajuraho Group of Monuments", "Location": "Madhya Pradesh", "Year": 1986, "Category": "Cultural" },
+    { "Site": " një-temples at Pattadakal", "Location": "Karnataka", "Year": 1987, "Category": "Cultural" },
+    { "Site": "Great Living Chola Temples", "Location": "Tamil Nadu", "Year": 1987, "Category": "Cultural" },
+    { "Site": "Mountain Railways of India", "Location": "West Bengal, Tamil Nadu", "Year": 1989, "Category": "Cultural" },
+    { "Site": "Kaziranga National Park", "Location": "Assam", "Year": 1985, "Category": "Natural" },
+    { "Site": "Manas Wildlife Sanctuary", "Location": "Assam", "Year": 1985, "Category": "Natural" },
+    { "Site": "Keoladeo National Park", "Location": "Rajasthan", "Year": 1985, "Category": "Natural" },
+    { "Site": "Sundarbans National Park", "Location": "West Bengal", "Year": 1987, "Category": "Natural" },
+    { "Site": "Nanda Devi and Valley of Flowers National Parks", "Location": "Uttarakhand", "Year": 1988, "Category": "Natural" },
+    { "Site": "Western Ghats", "Location": "Maharashtra, Karnataka, Kerala, Tamil Nadu", "Year": 2012, "Category": "Natural" },
+    { "Site": "Red Fort Complex", "Location": "Delhi", "Year": 2017, "Category": "Cultural" },
+    { "Site": "The Architectural Work of Le Corbusier", "Location": "Chandigarh", "Year": 2016, "Category": "Cultural" },
+    { "Site": "Victorian Gothic and Art Deco Ensembles of Mumbai", "Location": "Maharashtra", "Year": 2018, "Category": "Cultural" },
+    { "Site": "Jaipur City", "Location": "Rajasthan", "Year": 2019, "Category": "Cultural" }
+  ]
+}

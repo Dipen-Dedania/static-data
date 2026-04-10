@@ -1,0 +1,20 @@
+{
+  "languages": [
+    { "Language": "Hindi", "PrimaryRegions": ["North", "Central"], "Status": "Official" },
+    { "Language": "Bengali", "PrimaryRegions": ["West Bengal", "Tripura"], "Status": "Official" },
+    { "Language": "Marathi", "PrimaryRegions": ["Maharashtra"], "Status": "Official" },
+    { "Language": "Telugu", "PrimaryRegions": ["Andhra Pradesh", "Telangana"], "Status": "Official" },
+    { "Language": "Tamil", "PrimaryRegions": ["Tamil Nadu", "Puducherry"], "Status": "Official" },
+    { "Language": "Gujarati", "PrimaryRegions": ["Gujarat"], "Status": "Official" },
+    { "Language": "Urdu", "PrimaryRegions": ["Telangana", "Jammu & Kashmir"], "Status": "Official" },
+    { "Language": "Kannada", "PrimaryRegions": ["Karnataka"], "Status": "Official" },
+    { "Language": "Odia", "PrimaryRegions": ["Odisha"], "Status": "Official" },
+    { "Language": "Malayalam", "PrimaryRegions": ["Kerala"], "Status": "Official" },
+    { "Language": "Punjabi", "PrimaryRegions": ["Punjab"], "Status": "Official" },
+    { "Language": "Assamese", "PrimaryRegions": ["Assam"], "Status": "Official" },
+    { "Language": "Kashmiri", "PrimaryRegions": ["Jammu & Kashmir"], "Status": "Official" },
+    { "Language": "Konkani", "PrimaryRegions": ["Goa"], "Status": "Official" },
+    { "Language": "Manipuri", "PrimaryRegions": ["Manipur"], "Status": "Official" },
+    { "Language": "Nepali", "PrimaryRegions": ["Sikkim"], "Status": "Official" }
+  ]
+}

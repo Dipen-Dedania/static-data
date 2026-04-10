@@ -1,0 +1,22 @@
+{
+  "rivers": [
+    { "Name": "Ganga", "Origin": "Gangotri Glacier" },
+    { "Name": "Yamuna", "Origin": "Yamunotri Glacier" },
+    { "Name": "Brahmaputra", "Origin": "Angsi Glacier" },
+    { "Name": "Indus", "Origin": "Mansarovar Lake" },
+    { "Name": "Godavari", "Origin": "Trimbakeshwar" },
+    { "Name": "Krishna", "Origin": "Mahabaleshwar" },
+    { "Name": "Kaveri", "Origin": "Talakaveri" },
+    { "Name": "Narmada", "Origin": "Amarkantak" },
+    { "Name": "Tapi", "Origin": "Satpura Range" },
+    { "Name": "Mahanadi", "Origin": "Sihawa" },
+    { "Name": "Sabarmati", "Origin": "Aravalli Range" },
+    { "Name": "Luni", "Origin": "Aravalli Range" },
+    { "Name": "Son", "Origin": "Amarkantak" },
+    { "Name": "Gandak", "Origin": "Himalayas" },
+    { "Name": "Kosi", "Origin": "Himalayas" },
+    { "Name": "Periyar", "Origin": "Western Ghats" },
+    { "Name": "Pennar", "Origin": "Nandi Hills" },
+    { "Name": "Damodar", "Origin": "Chota Nagpur Plateau" }
+  ]
+}
