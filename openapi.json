@@ -218,13 +218,13 @@
                   "festivals": [
                     {
                       "Name": "Diwali",
-                      "Significance": "Festival of Lights",
+                      "Significance": "Festival of Lights; celebrates the victory of light over darkness and the return of Lord Rama to Ayodhya",
                       "Month": "October/November",
                       "Region": "National"
                     },
                     {
                       "Name": "Holi",
-                      "Significance": "Festival of Colors",
+                      "Significance": "Festival of Colours; celebrates the arrival of spring and the victory of good over evil",
                       "Month": "March",
                       "Region": "National"
                     }
@@ -274,16 +274,15 @@
                     {
                       "Language": "Hindi",
                       "PrimaryRegions": [
-                        "North",
-                        "Central"
+                        "North India",
+                        "Central India"
                       ],
                       "Status": "Official"
                     },
                     {
-                      "Language": "Bengali",
+                      "Language": "English",
                       "PrimaryRegions": [
-                        "West Bengal",
-                        "Tripura"
+                        "Pan-India"
                       ],
                       "Status": "Official"
                     }
@@ -331,13 +330,13 @@
                 "example": {
                   "mountains": [
                     {
-                      "Name": "Kanchenjunga",
+                      "Name": "Kangchenjunga",
                       "Range": "Himalayas",
                       "Height": "8,586m"
                     },
                     {
                       "Name": "Nanda Devi",
-                      "Range": "Himalayas",
+                      "Range": "Garhwal Himalaya",
                       "Height": "7,816m"
                     }
                   ]
@@ -437,12 +436,12 @@
                 "example": {
                   "rivers": [
                     {
-                      "Name": "Ganga",
-                      "Origin": "Gangotri Glacier"
+                      "Name": "Indus",
+                      "Origin": "Bokhar Chu Glacier (Mt. Kailash, Tibet)"
                     },
                     {
-                      "Name": "Yamuna",
-                      "Origin": "Yamunotri Glacier"
+                      "Name": "Ganga",
+                      "Origin": "Gangotri Glacier (Gaumukh, Uttarakhand)"
                     }
                   ]
                 }
