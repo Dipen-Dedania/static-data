@@ -1,16 +1,148 @@
 {
   "festivals": [
-    { "Name": "Diwali", "Significance": "Festival of Lights", "Month": "October/November", "Region": "National" },
-    { "Name": "Holi", "Significance": "Festival of Colors", "Month": "March", "Region": "National" },
-    { "Name": "Eid al-Fitr", "Significance": "End of Ramadan", "Month": "Varies", "Region": "National" },
-    { "Name": "Christmas", "Significance": "Birth of Jesus Christ", "Month": "December", "Region": "National" },
-    { "Name": "Pongal", "Significance": "Harvest Festival", "Month": "January", "Region": "Tamil Nadu" },
-    { "Name": "Onam", "Significance": "Harvest Festival", "Month": "August/September", "Region": "Kerala" },
-    { "Name": "Durga Puja", "Significance": "Victory of Durga over Mahishasura", "Month": "September/October", "Region": "West Bengal" },
-    { "Name": "Ganesh Chaturthi", "Significance": "Birth of Lord Ganesha", "Month": "August/September", "Region": "Maharashtra" },
-    { "Name": "Baisakhi", "Significance": "Harvest Festival / Sikh New Year", "Month": "April", "Region": "Punjab" },
-    { "Name": "Navratri", "Significance": "Nine nights of Goddess Durga", "Month": "September/October", "Region": "Gujarat/National" },
-    { "Name": "Hemis Festival", "Significance": "Birthday of Guru Padmasambhava", "Month": "June/July", "Region": "Ladakh" },
-    { "Name": "Hornbill Festival", "Significance": "Cultural festival of Nagas", "Month": "December", "Region": "Nagaland" }
+    {
+      "Name": "Diwali",
+      "Significance": "Festival of Lights; celebrates the victory of light over darkness and the return of Lord Rama to Ayodhya",
+      "Month": "October/November",
+      "Region": "National"
+    },
+    {
+      "Name": "Holi",
+      "Significance": "Festival of Colours; celebrates the arrival of spring and the victory of good over evil",
+      "Month": "March",
+      "Region": "National"
+    },
+    {
+      "Name": "Eid-ul-Fitr",
+      "Significance": "Marks the end of the holy fasting month of Ramadan",
+      "Month": "Varies (Lunar)",
+      "Region": "National"
+    },
+    {
+      "Name": "Ganesh Chaturthi",
+      "Significance": "Celebrates the birth of Lord Ganesha, the remover of obstacles",
+      "Month": "August/September",
+      "Region": "National (Strongest in Maharashtra)"
+    },
+    {
+      "Name": "Navratri / Durga Puja",
+      "Significance": "Nine nights dedicated to the Goddess Durga; celebrates her victory over the demon Mahishasura",
+      "Month": "September/October",
+      "Region": "National (Strongest in West Bengal/Gujarat)"
+    },
+    {
+      "Name": "Christmas",
+      "Significance": "Celebrates the birth of Jesus Christ",
+      "Month": "December",
+      "Region": "National (Strongest in Goa/Kerala/North East)"
+    },
+    {
+      "Name": "Raksha Bandhan",
+      "Significance": "Celebrates the sacred bond of protection between brothers and sisters",
+      "Month": "August",
+      "Region": "National"
+    },
+    {
+      "Name": "Republic Day",
+      "Significance": "Commemorates the adoption of the Indian Constitution",
+      "Month": "January",
+      "Region": "National"
+    },
+    {
+      "Name": "Independence Day",
+      "Significance": "Commemorates freedom from British rule",
+      "Month": "August",
+      "Region": "National"
+    },
+    {
+      "Name": "Gandhi Jayanti",
+      "Significance": "Birthday of Mahatma Gandhi, the Father of the Nation",
+      "Month": "October",
+      "Region": "National"
+    },
+    {
+      "Name": "Lohri",
+      "Significance": "Winter solstice and harvest festival involving bonfires",
+      "Month": "January",
+      "Region": "Punjab / Haryana"
+    },
+    {
+      "Name": "Baisakhi",
+      "Significance": "Harvest festival and the foundation day of the Khalsa",
+      "Month": "April",
+      "Region": "Punjab"
+    },
+    {
+      "Name": "Karwa Chauth",
+      "Significance": "Married women fast for the long life and well-being of their husbands",
+      "Month": "October/November",
+      "Region": "North India"
+    },
+    {
+      "Name": "Chhath Puja",
+      "Significance": "Dedicated to the Sun God (Surya) and Chhathi Maiya",
+      "Month": "October/November",
+      "Region": "Bihar / Jharkhand"
+    },
+    {
+      "Name": "Pongal",
+      "Significance": "Harvest festival thanking the Sun God and cattle",
+      "Month": "January",
+      "Region": "Tamil Nadu"
+    },
+    {
+      "Name": "Onam",
+      "Significance": "Celebrates the homecoming of the mythical King Mahabali",
+      "Month": "August/September",
+      "Region": "Kerala"
+    },
+    {
+      "Name": "Ugadi",
+      "Significance": "Traditional New Year for Kannada, Telugu, and Marathi people",
+      "Month": "March/April",
+      "Region": "Karnataka, Andhra Pradesh, Telangana"
+    },
+    {
+      "Name": "Gudi Padwa",
+      "Significance": "Marathi New Year; involves hoisting a decorated pole (Gudi)",
+      "Month": "March/April",
+      "Region": "Maharashtra"
+    },
+    {
+      "Name": "Vishu",
+      "Significance": "Astronomical New Year",
+      "Month": "April",
+      "Region": "Kerala"
+    },
+    {
+      "Name": "Bihu",
+      "Significance": "Celebrates different stages of the agricultural cycle",
+      "Month": "January/April/October",
+      "Region": "Assam"
+    },
+    {
+      "Name": "Hornbill Festival",
+      "Significance": "Promotes inter-tribal harmony and culture",
+      "Month": "December",
+      "Region": "Nagaland"
+    },
+    {
+      "Name": "Hemis Festival",
+      "Significance": "Celebrates the birth of Guru Padmasambhava",
+      "Month": "June/July",
+      "Region": "Ladakh"
+    },
+    {
+      "Name": "Rath Yatra",
+      "Significance": "Grand chariot procession of Lord Jagannath",
+      "Month": "June/July",
+      "Region": "Odisha"
+    },
+    {
+      "Name": "Pushkar Camel Fair",
+      "Significance": "Livestock trade fair combined with religious bathing",
+      "Month": "November",
+      "Region": "Rajasthan"
+    }
   ]
 }

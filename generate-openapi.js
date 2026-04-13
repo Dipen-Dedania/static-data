@@ -26,7 +26,7 @@ const getArg = (flag, fallback) => {
   return idx !== -1 && args[idx + 1] ? args[idx + 1] : fallback;
 };
 
-const BASE_URL = getArg('--base-url', 'https://raw.githubusercontent.com/dipen27891/static-data/main');
+const BASE_URL = getArg('--base-url', 'https://raw.githubusercontent.com/Dipen-Dedania/static-data/refs/heads/main/');
 const API_DIR  = path.resolve(getArg('--api-dir', './api'));
 const ROOT_DIR = path.resolve('.');
 

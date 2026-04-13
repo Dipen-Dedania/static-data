@@ -2,7 +2,7 @@
   "openapi": "3.0.3",
   "info": {
     "title": "Static Data API (Combined)",
-    "description": "Auto-generated OpenAPI specification for static JSON data hosted on GitHub and proxied via RapidAPI.\n\nBase content URL: https://raw.githubusercontent.com/dipen27891/static-data/main",
+    "description": "Auto-generated OpenAPI specification for static JSON data hosted on GitHub and proxied via RapidAPI.\n\nBase content URL: https://raw.githubusercontent.com/Dipen-Dedania/static-data/refs/heads/main/",
     "version": "1.0.0",
     "contact": {
       "name": "RapidAPI",
@@ -14,7 +14,7 @@
   },
   "servers": [
     {
-      "url": "https://raw.githubusercontent.com/dipen27891/static-data/main",
+      "url": "https://raw.githubusercontent.com/Dipen-Dedania/static-data/refs/heads/main/",
       "description": "GitHub Raw Content (origin)"
     }
   ],
