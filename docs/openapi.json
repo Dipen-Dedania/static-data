@@ -1,0 +1,807 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "India API",
+    "description": "Auto-generated OpenAPI specification for static JSON data hosted on GitHub and proxied via RapidAPI.\n\nBase content URL: https://raw.githubusercontent.com/Dipen-Dedania/static-data/refs/heads/main/",
+    "version": "1.0.0",
+    "contact": {
+      "name": "RapidAPI",
+      "url": "https://rapidapi.com/dipen27891/api/india-information"
+    },
+    "license": {
+      "name": "MIT"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://raw.githubusercontent.com/Dipen-Dedania/static-data/refs/heads/main/",
+      "description": "GitHub Raw Content (origin)"
+    }
+  ],
+  "tags": [
+    {
+      "name": "india",
+      "description": "Endpoints for India data"
+    }
+  ],
+  "paths": {
+    "/api/india/india-airports.json": {
+      "get": {
+        "tags": [
+          "india"
+        ],
+        "summary": "India Airports",
+        "description": "Returns the full India Airports dataset as a JSON array.",
+        "operationId": "get_india_india_airports",
+        "responses": {
+          "200": {
+            "description": "Successful response with India Airports data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_india_india_airports"
+                },
+                "example": {
+                  "airports": [
+                    {
+                      "Airport": "Indira Gandhi International Airport",
+                      "City": "Delhi",
+                      "IATA": "DEL",
+                      "Type": "International"
+                    },
+                    {
+                      "Airport": "Chhatrapati Shivaji Maharaj International Airport",
+                      "City": "Mumbai",
+                      "IATA": "BOM",
+                      "Type": "International"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/india/india-capital-city.json": {
+      "get": {
+        "tags": [
+          "india"
+        ],
+        "summary": "India Capital City",
+        "description": "Returns the full India Capital City dataset as a JSON array.",
+        "operationId": "get_india_india_capital_city",
+        "responses": {
+          "200": {
+            "description": "Successful response with India Capital City data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_india_india_capital_city"
+                },
+                "example": {
+                  "capitals": [
+                    {
+                      "City": "Amaravati",
+                      "State": "Andhra Pradesh"
+                    },
+                    {
+                      "City": "Itanagar",
+                      "State": "Arunachal Pradesh"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/india/india-city.json": {
+      "get": {
+        "tags": [
+          "india"
+        ],
+        "summary": "India City",
+        "description": "Returns the full India City dataset as a JSON array.",
+        "operationId": "get_india_india_city",
+        "responses": {
+          "200": {
+            "description": "Successful response with India City data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_india_india_city"
+                },
+                "example": {
+                  "cities": [
+                    {
+                      "City": "SGM",
+                      "State": "Rajasthan",
+                      "District": "Ganganagar"
+                    },
+                    {
+                      "City": "STR",
+                      "State": "Rajasthan",
+                      "District": "Ganganagar"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/india/india-festivals.json": {
+      "get": {
+        "tags": [
+          "india"
+        ],
+        "summary": "India Festivals",
+        "description": "Returns the full India Festivals dataset as a JSON array.",
+        "operationId": "get_india_india_festivals",
+        "responses": {
+          "200": {
+            "description": "Successful response with India Festivals data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_india_india_festivals"
+                },
+                "example": {
+                  "festivals": [
+                    {
+                      "Name": "Diwali",
+                      "Significance": "Festival of Lights",
+                      "Month": "October/November",
+                      "Region": "National"
+                    },
+                    {
+                      "Name": "Holi",
+                      "Significance": "Festival of Colors",
+                      "Month": "March",
+                      "Region": "National"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/india/india-languages.json": {
+      "get": {
+        "tags": [
+          "india"
+        ],
+        "summary": "India Languages",
+        "description": "Returns the full India Languages dataset as a JSON array.",
+        "operationId": "get_india_india_languages",
+        "responses": {
+          "200": {
+            "description": "Successful response with India Languages data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_india_india_languages"
+                },
+                "example": {
+                  "languages": [
+                    {
+                      "Language": "Hindi",
+                      "PrimaryRegions": [
+                        "North",
+                        "Central"
+                      ],
+                      "Status": "Official"
+                    },
+                    {
+                      "Language": "Bengali",
+                      "PrimaryRegions": [
+                        "West Bengal",
+                        "Tripura"
+                      ],
+                      "Status": "Official"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/india/india-mountains.json": {
+      "get": {
+        "tags": [
+          "india"
+        ],
+        "summary": "India Mountains",
+        "description": "Returns the full India Mountains dataset as a JSON array.",
+        "operationId": "get_india_india_mountains",
+        "responses": {
+          "200": {
+            "description": "Successful response with India Mountains data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_india_india_mountains"
+                },
+                "example": {
+                  "mountains": [
+                    {
+                      "Name": "Kanchenjunga",
+                      "Range": "Himalayas",
+                      "Height": "8,586m"
+                    },
+                    {
+                      "Name": "Nanda Devi",
+                      "Range": "Himalayas",
+                      "Height": "7,816m"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/india/india-popular-city.json": {
+      "get": {
+        "tags": [
+          "india"
+        ],
+        "summary": "India Popular City",
+        "description": "Returns the full India Popular City dataset as a JSON array.",
+        "operationId": "get_india_india_popular_city",
+        "responses": {
+          "200": {
+            "description": "Successful response with India Popular City data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_india_india_popular_city"
+                },
+                "example": {
+                  "city": [
+                    {
+                      "id": 3752,
+                      "name": "Bangalore",
+                      "airportCode": "BLR"
+                    },
+                    {
+                      "id": 1373,
+                      "name": "Chennai",
+                      "airportCode": "MAA"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/india/india-rivers.json": {
+      "get": {
+        "tags": [
+          "india"
+        ],
+        "summary": "India Rivers",
+        "description": "Returns the full India Rivers dataset as a JSON array.",
+        "operationId": "get_india_india_rivers",
+        "responses": {
+          "200": {
+            "description": "Successful response with India Rivers data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_india_india_rivers"
+                },
+                "example": {
+                  "rivers": [
+                    {
+                      "Name": "Ganga",
+                      "Origin": "Gangotri Glacier"
+                    },
+                    {
+                      "Name": "Yamuna",
+                      "Origin": "Yamunotri Glacier"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/india/india-states-uts.json": {
+      "get": {
+        "tags": [
+          "india"
+        ],
+        "summary": "India States Uts",
+        "description": "Returns the full India States Uts dataset as a JSON array.",
+        "operationId": "get_india_india_states_uts",
+        "responses": {
+          "200": {
+            "description": "Successful response with India States Uts data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_india_india_states_uts"
+                },
+                "example": {
+                  "states_uts": [
+                    {
+                      "Name": "Andhra Pradesh",
+                      "Type": "State",
+                      "Capital": "Amaravati",
+                      "OfficialLanguage": "Telugu",
+                      "FormationDate": "1956-10-01"
+                    },
+                    {
+                      "Name": "Arunachal Pradesh",
+                      "Type": "State",
+                      "Capital": "Itanagar",
+                      "OfficialLanguage": "English",
+                      "FormationDate": "1987-02-20"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/india/india-unesco-sites.json": {
+      "get": {
+        "tags": [
+          "india"
+        ],
+        "summary": "India Unesco Sites",
+        "description": "Returns the full India Unesco Sites dataset as a JSON array.",
+        "operationId": "get_india_india_unesco_sites",
+        "responses": {
+          "200": {
+            "description": "Successful response with India Unesco Sites data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_india_india_unesco_sites"
+                },
+                "example": {
+                  "unesco_sites": [
+                    {
+                      "Site": "Ajanta Caves",
+                      "Location": "Maharashtra",
+                      "Year": 1983,
+                      "Category": "Cultural"
+                    },
+                    {
+                      "Site": "Ellora Caves",
+                      "Location": "Maharashtra",
+                      "Year": 1983,
+                      "Category": "Cultural"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "get_india_india_airports": {
+        "type": "object",
+        "properties": {
+          "airports": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "Airport": {
+                  "type": "string"
+                },
+                "City": {
+                  "type": "string"
+                },
+                "IATA": {
+                  "type": "string"
+                },
+                "Type": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_india_india_capital_city": {
+        "type": "object",
+        "properties": {
+          "capitals": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "City": {
+                  "type": "string"
+                },
+                "State": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_india_india_city": {
+        "type": "object",
+        "properties": {
+          "cities": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "City": {
+                  "type": "string"
+                },
+                "State": {
+                  "type": "string"
+                },
+                "District": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_india_india_festivals": {
+        "type": "object",
+        "properties": {
+          "festivals": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "Name": {
+                  "type": "string"
+                },
+                "Significance": {
+                  "type": "string"
+                },
+                "Month": {
+                  "type": "string"
+                },
+                "Region": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_india_india_languages": {
+        "type": "object",
+        "properties": {
+          "languages": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "Language": {
+                  "type": "string"
+                },
+                "PrimaryRegions": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "Status": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_india_india_mountains": {
+        "type": "object",
+        "properties": {
+          "mountains": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "Name": {
+                  "type": "string"
+                },
+                "Range": {
+                  "type": "string"
+                },
+                "Height": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_india_india_popular_city": {
+        "type": "object",
+        "properties": {
+          "city": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "integer"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "airportCode": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_india_india_rivers": {
+        "type": "object",
+        "properties": {
+          "rivers": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "Name": {
+                  "type": "string"
+                },
+                "Origin": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_india_india_states_uts": {
+        "type": "object",
+        "properties": {
+          "states_uts": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "Name": {
+                  "type": "string"
+                },
+                "Type": {
+                  "type": "string"
+                },
+                "Capital": {
+                  "type": "string"
+                },
+                "OfficialLanguage": {
+                  "type": "string"
+                },
+                "FormationDate": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_india_india_unesco_sites": {
+        "type": "object",
+        "properties": {
+          "unesco_sites": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "Site": {
+                  "type": "string"
+                },
+                "Location": {
+                  "type": "string"
+                },
+                "Year": {
+                  "type": "integer"
+                },
+                "Category": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
