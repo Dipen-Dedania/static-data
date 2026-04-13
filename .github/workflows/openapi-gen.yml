@@ -1,0 +1,42 @@
+name: Auto-Generate OpenAPI Specs
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - '**.md'
+      - 'openapi.json'
+      - 'api/**/openapi.json'
+
+jobs:
+  generate-specs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run OpenAPI Generator
+        run: node generate-openapi.js
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code openapi.json api/**/openapi.json || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and Push changes
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git config --global user.name 'OpenClaw CI'
+          git config --global user.email 'ci@openclaw.ai'
+          git add openapi.json api/**/openapi.json
+          git commit -m "chore: auto-update OpenAPI specs [skip ci]"
+          git push
