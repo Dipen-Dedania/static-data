@@ -184,6 +184,63 @@
         }
       }
     },
+    "/api/india/india-currency.json": {
+      "get": {
+        "tags": [
+          "india"
+        ],
+        "summary": "India Currency",
+        "description": "Returns the full India Currency dataset as a JSON array.",
+        "operationId": "get_india_india_currency",
+        "responses": {
+          "200": {
+            "description": "Successful response with India Currency data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_india_india_currency"
+                },
+                "example": {
+                  "currency": [
+                    {
+                      "denomination": "₹1",
+                      "type": "Coin",
+                      "status": "Active",
+                      "material": "Ferritic Stainless Steel / Nickel-Brass",
+                      "description": "Smallest active currency unit in India."
+                    },
+                    {
+                      "denomination": "₹2",
+                      "type": "Coin",
+                      "status": "Active",
+                      "material": "Ferritic Stainless Steel",
+                      "description": "Standard low-value coin."
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
     "/api/india/india-festivals.json": {
       "get": {
         "tags": [
@@ -227,6 +284,210 @@
                       "Significance": "Festival of Colours; celebrates the arrival of spring and the victory of good over evil",
                       "Month": "March",
                       "Region": "National"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/india/india-gst-codes.json": {
+      "get": {
+        "tags": [
+          "india"
+        ],
+        "summary": "India Gst Codes",
+        "description": "Returns the full India Gst Codes dataset as a JSON array.",
+        "operationId": "get_india_india_gst_codes",
+        "responses": {
+          "200": {
+            "description": "Successful response with India Gst Codes data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_india_india_gst_codes"
+                },
+                "example": {
+                  "gst_codes": [
+                    {
+                      "state": "Jammu & Kashmir",
+                      "code": "01",
+                      "type": "Union Territory"
+                    },
+                    {
+                      "state": "Himachal Pradesh",
+                      "code": "02",
+                      "type": "State"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/india/india-highways.json": {
+      "get": {
+        "tags": [
+          "india"
+        ],
+        "summary": "India Highways",
+        "description": "Returns the full India Highways dataset as a JSON array.",
+        "operationId": "get_india_india_highways",
+        "responses": {
+          "200": {
+            "description": "Successful response with India Highways data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_india_india_highways"
+                },
+                "example": {
+                  "highways": [
+                    {
+                      "highway": "NH 44",
+                      "route": "Srinagar to Kanyakumari",
+                      "length_km": 2095,
+                      "key_cities": [
+                        "Srinagar",
+                        "Jammu",
+                        "Delhi",
+                        "Nagpur",
+                        "Hyderabad",
+                        "Chennai",
+                        "Kanyakumari"
+                      ],
+                      "states": [
+                        "Jammu & Kashmir",
+                        "Punjab",
+                        "Haryana",
+                        "Uttar Pradesh",
+                        "Madhya Pradesh",
+                        "Maharashtra",
+                        "Telangana",
+                        "Andhra Pradesh",
+                        "Tamil Nadu"
+                      ],
+                      "description": "The longest North-South highway in India."
+                    },
+                    {
+                      "highway": "NH 48",
+                      "route": "Delhi to Chennai",
+                      "length_km": 2160,
+                      "key_cities": [
+                        "Delhi",
+                        "Jaipur",
+                        "Ahmedabad",
+                        "Mumbai",
+                        "Pune",
+                        "Bangalore",
+                        "Chennai"
+                      ],
+                      "states": [
+                        "Delhi",
+                        "Haryana",
+                        "Rajasthan",
+                        "Gujarat",
+                        "Maharashtra",
+                        "Karnataka",
+                        "Andhra Pradesh",
+                        "Tamil Nadu"
+                      ],
+                      "description": "Main economic artery connecting the capital to Western and Southern ports."
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/india/india-holidays.json": {
+      "get": {
+        "tags": [
+          "india"
+        ],
+        "summary": "India Holidays",
+        "description": "Returns the full India Holidays dataset as a JSON array.",
+        "operationId": "get_india_india_holidays",
+        "responses": {
+          "200": {
+            "description": "Successful response with India Holidays data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_india_india_holidays"
+                },
+                "example": {
+                  "year": 2026,
+                  "country": "India",
+                  "holidays": [
+                    {
+                      "date": "2026-01-01",
+                      "name": "New Year's Day",
+                      "type": "Optional",
+                      "description": "Celebration of the start of the Gregorian calendar year."
+                    },
+                    {
+                      "date": "2026-01-14",
+                      "name": "Makar Sankranti / Pongal",
+                      "type": "Regional",
+                      "description": "Harvest festival celebrated in various forms across India."
                     }
                   ]
                 }
@@ -635,6 +896,34 @@
           }
         }
       },
+      "get_india_india_currency": {
+        "type": "object",
+        "properties": {
+          "currency": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "denomination": {
+                  "type": "string"
+                },
+                "type": {
+                  "type": "string"
+                },
+                "status": {
+                  "type": "string"
+                },
+                "material": {
+                  "type": "string"
+                },
+                "description": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
       "get_india_india_festivals": {
         "type": "object",
         "properties": {
@@ -653,6 +942,96 @@
                   "type": "string"
                 },
                 "Region": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_india_india_gst_codes": {
+        "type": "object",
+        "properties": {
+          "gst_codes": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "state": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "type": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_india_india_highways": {
+        "type": "object",
+        "properties": {
+          "highways": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "highway": {
+                  "type": "string"
+                },
+                "route": {
+                  "type": "string"
+                },
+                "length_km": {
+                  "type": "integer"
+                },
+                "key_cities": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "states": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "description": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_india_india_holidays": {
+        "type": "object",
+        "properties": {
+          "year": {
+            "type": "integer"
+          },
+          "country": {
+            "type": "string"
+          },
+          "holidays": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "date": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "type": {
+                  "type": "string"
+                },
+                "description": {
                   "type": "string"
                 }
               }

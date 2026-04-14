@@ -20,11 +20,313 @@
   ],
   "tags": [
     {
+      "name": "global",
+      "description": "Endpoints for Global data"
+    },
+    {
       "name": "india",
       "description": "Endpoints for India data"
     }
   ],
   "paths": {
+    "/api/global/country.json": {
+      "get": {
+        "tags": [
+          "global"
+        ],
+        "summary": "Country",
+        "description": "Returns the full Country dataset as a JSON array.",
+        "operationId": "get_global_country",
+        "responses": {
+          "200": {
+            "description": "Successful response with Country data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_global_country"
+                },
+                "example": {
+                  "country": [
+                    {
+                      "name": "Afghanistan",
+                      "code": "AF"
+                    },
+                    {
+                      "name": "Åland Islands",
+                      "code": "AX"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/global/currencies.json": {
+      "get": {
+        "tags": [
+          "global"
+        ],
+        "summary": "Currencies",
+        "description": "Returns the full Currencies dataset as a JSON array.",
+        "operationId": "get_global_currencies",
+        "responses": {
+          "200": {
+            "description": "Successful response with Currencies data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_global_currencies"
+                },
+                "example": {
+                  "currencies": [
+                    {
+                      "code": "AFN",
+                      "name": "Afghan Afghani",
+                      "symbol": "ؐ"
+                    },
+                    {
+                      "code": "ALL",
+                      "name": "Albanian Lek",
+                      "symbol": "L"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/global/languages.json": {
+      "get": {
+        "tags": [
+          "global"
+        ],
+        "summary": "Languages",
+        "description": "Returns the full Languages dataset as a JSON array.",
+        "operationId": "get_global_languages",
+        "responses": {
+          "200": {
+            "description": "Successful response with Languages data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_global_languages"
+                },
+                "example": {
+                  "languages": [
+                    {
+                      "code": "af",
+                      "name": "Afrikaans"
+                    },
+                    {
+                      "code": "sq",
+                      "name": "Albanian"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/global/timezones.json": {
+      "get": {
+        "tags": [
+          "global"
+        ],
+        "summary": "Timezones",
+        "description": "Returns the full Timezones dataset as a JSON array.",
+        "operationId": "get_global_timezones",
+        "responses": {
+          "200": {
+            "description": "Successful response with Timezones data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_global_timezones"
+                },
+                "example": {
+                  "timezones": {
+                    "Africa": [
+                      "Africa/Abidjan",
+                      "Africa/Accra",
+                      "Africa/Algiers",
+                      "Africa/Cairo",
+                      "Africa/Casablanca",
+                      "Africa/Djibouti",
+                      "Africa/Douala",
+                      "Africa/Johannesburg",
+                      "Africa/Kampala",
+                      "Africa/Khartoum",
+                      "Africa/Lagos",
+                      "Africa/Libreville",
+                      "Africa/Luanda",
+                      "Africa/Nairobi",
+                      "Africa/Niamey",
+                      "Africa/Porto-Novo",
+                      "Africa/Tunis",
+                      "Africa/Windhoek"
+                    ],
+                    "America": [
+                      "America/Anchorage",
+                      "America/Argentina/Buenos_Aires",
+                      "America/Bogota",
+                      "America/Halifax",
+                      "America/Manaus",
+                      "America/Mexico_City",
+                      "America/New_York",
+                      "America/Phoenix",
+                      "America/Santiago",
+                      "America/Sao_Paulo",
+                      "America/Tegucigalpa",
+                      "America/Toronto",
+                      "America/Vancouver"
+                    ],
+                    "Asia": [
+                      "Asia/Baku",
+                      "Asia/Bangkok",
+                      "Asia/Colombo",
+                      "Asia/Dubai",
+                      "Asia/Hong_Kong",
+                      "Asia/Jerusalem",
+                      "Asia/Jakarta",
+                      "Asia/Kabul",
+                      "Asia/Karachi",
+                      "Asia/Kathmandu",
+                      "Asia/Kolkata",
+                      "Asia/Manila",
+                      "Asia/Seoul",
+                      "Asia/Shanghai",
+                      "Asia/Singapore",
+                      "Asia/Taipei",
+                      "Asia/Tashkent",
+                      "Asia/Tbilisi",
+                      "Asia/Tokyo"
+                    ],
+                    "Australia": [
+                      "Australia/Adelaide",
+                      "Australia/Brisbane",
+                      "Australia/Darwin",
+                      "Australia/Hobart",
+                      "Australia/Perth",
+                      "Australia/Sydney"
+                    ],
+                    "Europe": [
+                      "Europe/Amsterdam",
+                      "Europe/Berlin",
+                      "Europe/Brussels",
+                      "Europe/Budapest",
+                      "Europe/Copenhagen",
+                      "Europe/Dublin",
+                      "Europe/Helsinki",
+                      "Europe/ Lisbon",
+                      "Europe/London",
+                      "Europe/Madrid",
+                      "Europe/Oslo",
+                      "Europe/Paris",
+                      "Europe/Prague",
+                      "Europe/Rome",
+                      "Europe/Stockholm",
+                      "Europe/Vienna",
+                      "Europe/Warsaw",
+                      "Europe/Zurich"
+                    ],
+                    "Pacific": [
+                      "Pacific/Apia",
+                      "Pacific/sao_Kiritimati",
+                      "Pacific/Guadalcanal",
+                      "Pacific/Honolulu",
+                      "Pacific/Majuro",
+                      "Pacific/Noumea",
+                      "Pacific/Pago_Pago",
+                      "Pacific/Papeete",
+                      "Pacific/Tongatapu",
+                      "Pacific/Wake",
+                      "Pacific/Wallis"
+                    ],
+                    "UTC": [
+                      "UTC"
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
     "/api/india/india-airports.json": {
       "get": {
         "tags": [
@@ -184,6 +486,63 @@
         }
       }
     },
+    "/api/india/india-currency.json": {
+      "get": {
+        "tags": [
+          "india"
+        ],
+        "summary": "India Currency",
+        "description": "Returns the full India Currency dataset as a JSON array.",
+        "operationId": "get_india_india_currency",
+        "responses": {
+          "200": {
+            "description": "Successful response with India Currency data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_india_india_currency"
+                },
+                "example": {
+                  "currency": [
+                    {
+                      "denomination": "₹1",
+                      "type": "Coin",
+                      "status": "Active",
+                      "material": "Ferritic Stainless Steel / Nickel-Brass",
+                      "description": "Smallest active currency unit in India."
+                    },
+                    {
+                      "denomination": "₹2",
+                      "type": "Coin",
+                      "status": "Active",
+                      "material": "Ferritic Stainless Steel",
+                      "description": "Standard low-value coin."
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
     "/api/india/india-festivals.json": {
       "get": {
         "tags": [
@@ -227,6 +586,210 @@
                       "Significance": "Festival of Colours; celebrates the arrival of spring and the victory of good over evil",
                       "Month": "March",
                       "Region": "National"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/india/india-gst-codes.json": {
+      "get": {
+        "tags": [
+          "india"
+        ],
+        "summary": "India Gst Codes",
+        "description": "Returns the full India Gst Codes dataset as a JSON array.",
+        "operationId": "get_india_india_gst_codes",
+        "responses": {
+          "200": {
+            "description": "Successful response with India Gst Codes data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_india_india_gst_codes"
+                },
+                "example": {
+                  "gst_codes": [
+                    {
+                      "state": "Jammu & Kashmir",
+                      "code": "01",
+                      "type": "Union Territory"
+                    },
+                    {
+                      "state": "Himachal Pradesh",
+                      "code": "02",
+                      "type": "State"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/india/india-highways.json": {
+      "get": {
+        "tags": [
+          "india"
+        ],
+        "summary": "India Highways",
+        "description": "Returns the full India Highways dataset as a JSON array.",
+        "operationId": "get_india_india_highways",
+        "responses": {
+          "200": {
+            "description": "Successful response with India Highways data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_india_india_highways"
+                },
+                "example": {
+                  "highways": [
+                    {
+                      "highway": "NH 44",
+                      "route": "Srinagar to Kanyakumari",
+                      "length_km": 2095,
+                      "key_cities": [
+                        "Srinagar",
+                        "Jammu",
+                        "Delhi",
+                        "Nagpur",
+                        "Hyderabad",
+                        "Chennai",
+                        "Kanyakumari"
+                      ],
+                      "states": [
+                        "Jammu & Kashmir",
+                        "Punjab",
+                        "Haryana",
+                        "Uttar Pradesh",
+                        "Madhya Pradesh",
+                        "Maharashtra",
+                        "Telangana",
+                        "Andhra Pradesh",
+                        "Tamil Nadu"
+                      ],
+                      "description": "The longest North-South highway in India."
+                    },
+                    {
+                      "highway": "NH 48",
+                      "route": "Delhi to Chennai",
+                      "length_km": 2160,
+                      "key_cities": [
+                        "Delhi",
+                        "Jaipur",
+                        "Ahmedabad",
+                        "Mumbai",
+                        "Pune",
+                        "Bangalore",
+                        "Chennai"
+                      ],
+                      "states": [
+                        "Delhi",
+                        "Haryana",
+                        "Rajasthan",
+                        "Gujarat",
+                        "Maharashtra",
+                        "Karnataka",
+                        "Andhra Pradesh",
+                        "Tamil Nadu"
+                      ],
+                      "description": "Main economic artery connecting the capital to Western and Southern ports."
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/india/india-holidays.json": {
+      "get": {
+        "tags": [
+          "india"
+        ],
+        "summary": "India Holidays",
+        "description": "Returns the full India Holidays dataset as a JSON array.",
+        "operationId": "get_india_india_holidays",
+        "responses": {
+          "200": {
+            "description": "Successful response with India Holidays data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_india_india_holidays"
+                },
+                "example": {
+                  "year": 2026,
+                  "country": "India",
+                  "holidays": [
+                    {
+                      "date": "2026-01-01",
+                      "name": "New Year's Day",
+                      "type": "Optional",
+                      "description": "Celebration of the start of the Gregorian calendar year."
+                    },
+                    {
+                      "date": "2026-01-14",
+                      "name": "Makar Sankranti / Pongal",
+                      "type": "Regional",
+                      "description": "Harvest festival celebrated in various forms across India."
                     }
                   ]
                 }
@@ -569,6 +1132,118 @@
   },
   "components": {
     "schemas": {
+      "get_global_country": {
+        "type": "object",
+        "properties": {
+          "country": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_global_currencies": {
+        "type": "object",
+        "properties": {
+          "currencies": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "symbol": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_global_languages": {
+        "type": "object",
+        "properties": {
+          "languages": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_global_timezones": {
+        "type": "object",
+        "properties": {
+          "timezones": {
+            "type": "object",
+            "properties": {
+              "Africa": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "America": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "Asia": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "Australia": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "Europe": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "Pacific": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "UTC": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
       "get_india_india_airports": {
         "type": "object",
         "properties": {
@@ -635,6 +1310,34 @@
           }
         }
       },
+      "get_india_india_currency": {
+        "type": "object",
+        "properties": {
+          "currency": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "denomination": {
+                  "type": "string"
+                },
+                "type": {
+                  "type": "string"
+                },
+                "status": {
+                  "type": "string"
+                },
+                "material": {
+                  "type": "string"
+                },
+                "description": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
       "get_india_india_festivals": {
         "type": "object",
         "properties": {
@@ -653,6 +1356,96 @@
                   "type": "string"
                 },
                 "Region": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_india_india_gst_codes": {
+        "type": "object",
+        "properties": {
+          "gst_codes": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "state": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "type": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_india_india_highways": {
+        "type": "object",
+        "properties": {
+          "highways": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "highway": {
+                  "type": "string"
+                },
+                "route": {
+                  "type": "string"
+                },
+                "length_km": {
+                  "type": "integer"
+                },
+                "key_cities": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "states": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "description": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_india_india_holidays": {
+        "type": "object",
+        "properties": {
+          "year": {
+            "type": "integer"
+          },
+          "country": {
+            "type": "string"
+          },
+          "holidays": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "date": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "type": {
+                  "type": "string"
+                },
+                "description": {
                   "type": "string"
                 }
               }

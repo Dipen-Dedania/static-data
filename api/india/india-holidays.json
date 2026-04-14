@@ -1,0 +1,25 @@
+{
+  "year": 2026,
+  "country": "India",
+  "holidays": [
+    { "date": "2026-01-01", "name": "New Year's Day", "type": "Optional", "description": "Celebration of the start of the Gregorian calendar year." },
+    { "date": "2026-01-14", "name": "Makar Sankranti / Pongal", "type": "Regional", "description": "Harvest festival celebrated in various forms across India." },
+    { "date": "2026-01-26", "name": "Republic Day", "type": "National", "description": "Commemorating the date on which the Constitution of India came into effect." },
+    { "date": "2026-02-15", "name": "Guru Nanak Birthday", "type": "Optional", "description": "Birth anniversary of the first Sikh Guru." },
+    { "date": "2026-03-03", "name": "Maha Shivratri", "type": "Optional", "description": "Celebration of the marriage of Lord Shiva and Goddess Parvati." },
+    { "date": "2026-03-20", "name": "Holi", "type": "National", "description": "The festival of colors, marking the arrival of spring." },
+    { "date": "2026-03-20", "name": "Eid-ul-Fitr", "type": "National", "description": "Marking the end of Ramadan, the Islamic holy month of fasting.", "note": "Subject to moon sighting" },
+    { "date": "2026-04-03", "name": "Good Friday", "type": "Optional", "description": "Commemoration of the crucifixion of Jesus Christ." },
+    { "date": "2026-04-14", "name": "Ambedkar Jayanti", "type": "National", "description": "Birth anniversary of Dr. B.R. Ambedkar, the architect of the Indian Constitution." },
+    { "date": "2026-05-01", "name": "May Day", "type": "Optional", "description": "International Workers' Day." },
+    { "date": "2026-05-27", "name": "Buddha Purnima", "type": "Optional", "description": "Celebration of the birth, enlightenment, and death of Gautama Buddha." },
+    { "date": "2026-08-15", "name": "Independence Day", "type": "National", "description": "Commemorating India's independence from British rule in 1947." },
+    { "date": "2026-08-26", "name": "Janmashtami", "type": "Optional", "description": "Birth anniversary of Lord Krishna." },
+    { "date": "2026-09-04", "name": "Eid-e-Milad", "type": "Optional", "description": "Observance of the birth of Prophet Muhammad.", "note": "Subject to moon sighting" },
+    { "date": "2026-10-02", "name": "Gandhi Jayanti", "type": "National", "description": "Birth anniversary of Mahatma Gandhi." },
+    { "date": "2026-10-20", "name": "Dussehra", "type": "Optional", "description": "Celebration of the victory of Lord Rama over Ravana." },
+    { "date": "2026-11-08", "name": "Diwali", "type": "National", "description": "The festival of lights, celebrating the victory of light over darkness.", "note": "Date may vary slightly" },
+    { "date": "2026-11-14", "name": "Guru Nanak Birthday", "type": "Optional", "description": "Birth anniversary of the first Sikh Guru." },
+    { "date": "2026-12-25", "name": "Christmas", "type": "Optional", "description": "Celebration of the birth of Jesus Christ." }
+  ]
+}

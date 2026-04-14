@@ -1,0 +1,443 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "Global API",
+    "description": "Auto-generated OpenAPI specification for static JSON data hosted on GitHub and proxied via RapidAPI.\n\nBase content URL: https://raw.githubusercontent.com/Dipen-Dedania/static-data/refs/heads/main/",
+    "version": "1.0.0",
+    "contact": {
+      "name": "RapidAPI",
+      "url": "https://rapidapi.com/dipen27891/api/india-information"
+    },
+    "license": {
+      "name": "MIT"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://raw.githubusercontent.com/Dipen-Dedania/static-data/refs/heads/main/",
+      "description": "GitHub Raw Content (origin)"
+    }
+  ],
+  "tags": [
+    {
+      "name": "global",
+      "description": "Endpoints for Global data"
+    }
+  ],
+  "paths": {
+    "/api/global/country.json": {
+      "get": {
+        "tags": [
+          "global"
+        ],
+        "summary": "Country",
+        "description": "Returns the full Country dataset as a JSON array.",
+        "operationId": "get_global_country",
+        "responses": {
+          "200": {
+            "description": "Successful response with Country data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_global_country"
+                },
+                "example": {
+                  "country": [
+                    {
+                      "name": "Afghanistan",
+                      "code": "AF"
+                    },
+                    {
+                      "name": "Åland Islands",
+                      "code": "AX"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/global/currencies.json": {
+      "get": {
+        "tags": [
+          "global"
+        ],
+        "summary": "Currencies",
+        "description": "Returns the full Currencies dataset as a JSON array.",
+        "operationId": "get_global_currencies",
+        "responses": {
+          "200": {
+            "description": "Successful response with Currencies data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_global_currencies"
+                },
+                "example": {
+                  "currencies": [
+                    {
+                      "code": "AFN",
+                      "name": "Afghan Afghani",
+                      "symbol": "ؐ"
+                    },
+                    {
+                      "code": "ALL",
+                      "name": "Albanian Lek",
+                      "symbol": "L"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/global/languages.json": {
+      "get": {
+        "tags": [
+          "global"
+        ],
+        "summary": "Languages",
+        "description": "Returns the full Languages dataset as a JSON array.",
+        "operationId": "get_global_languages",
+        "responses": {
+          "200": {
+            "description": "Successful response with Languages data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_global_languages"
+                },
+                "example": {
+                  "languages": [
+                    {
+                      "code": "af",
+                      "name": "Afrikaans"
+                    },
+                    {
+                      "code": "sq",
+                      "name": "Albanian"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/global/timezones.json": {
+      "get": {
+        "tags": [
+          "global"
+        ],
+        "summary": "Timezones",
+        "description": "Returns the full Timezones dataset as a JSON array.",
+        "operationId": "get_global_timezones",
+        "responses": {
+          "200": {
+            "description": "Successful response with Timezones data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_global_timezones"
+                },
+                "example": {
+                  "timezones": {
+                    "Africa": [
+                      "Africa/Abidjan",
+                      "Africa/Accra",
+                      "Africa/Algiers",
+                      "Africa/Cairo",
+                      "Africa/Casablanca",
+                      "Africa/Djibouti",
+                      "Africa/Douala",
+                      "Africa/Johannesburg",
+                      "Africa/Kampala",
+                      "Africa/Khartoum",
+                      "Africa/Lagos",
+                      "Africa/Libreville",
+                      "Africa/Luanda",
+                      "Africa/Nairobi",
+                      "Africa/Niamey",
+                      "Africa/Porto-Novo",
+                      "Africa/Tunis",
+                      "Africa/Windhoek"
+                    ],
+                    "America": [
+                      "America/Anchorage",
+                      "America/Argentina/Buenos_Aires",
+                      "America/Bogota",
+                      "America/Halifax",
+                      "America/Manaus",
+                      "America/Mexico_City",
+                      "America/New_York",
+                      "America/Phoenix",
+                      "America/Santiago",
+                      "America/Sao_Paulo",
+                      "America/Tegucigalpa",
+                      "America/Toronto",
+                      "America/Vancouver"
+                    ],
+                    "Asia": [
+                      "Asia/Baku",
+                      "Asia/Bangkok",
+                      "Asia/Colombo",
+                      "Asia/Dubai",
+                      "Asia/Hong_Kong",
+                      "Asia/Jerusalem",
+                      "Asia/Jakarta",
+                      "Asia/Kabul",
+                      "Asia/Karachi",
+                      "Asia/Kathmandu",
+                      "Asia/Kolkata",
+                      "Asia/Manila",
+                      "Asia/Seoul",
+                      "Asia/Shanghai",
+                      "Asia/Singapore",
+                      "Asia/Taipei",
+                      "Asia/Tashkent",
+                      "Asia/Tbilisi",
+                      "Asia/Tokyo"
+                    ],
+                    "Australia": [
+                      "Australia/Adelaide",
+                      "Australia/Brisbane",
+                      "Australia/Darwin",
+                      "Australia/Hobart",
+                      "Australia/Perth",
+                      "Australia/Sydney"
+                    ],
+                    "Europe": [
+                      "Europe/Amsterdam",
+                      "Europe/Berlin",
+                      "Europe/Brussels",
+                      "Europe/Budapest",
+                      "Europe/Copenhagen",
+                      "Europe/Dublin",
+                      "Europe/Helsinki",
+                      "Europe/ Lisbon",
+                      "Europe/London",
+                      "Europe/Madrid",
+                      "Europe/Oslo",
+                      "Europe/Paris",
+                      "Europe/Prague",
+                      "Europe/Rome",
+                      "Europe/Stockholm",
+                      "Europe/Vienna",
+                      "Europe/Warsaw",
+                      "Europe/Zurich"
+                    ],
+                    "Pacific": [
+                      "Pacific/Apia",
+                      "Pacific/sao_Kiritimati",
+                      "Pacific/Guadalcanal",
+                      "Pacific/Honolulu",
+                      "Pacific/Majuro",
+                      "Pacific/Noumea",
+                      "Pacific/Pago_Pago",
+                      "Pacific/Papeete",
+                      "Pacific/Tongatapu",
+                      "Pacific/Wake",
+                      "Pacific/Wallis"
+                    ],
+                    "UTC": [
+                      "UTC"
+                    ]
+                  }
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "get_global_country": {
+        "type": "object",
+        "properties": {
+          "country": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_global_currencies": {
+        "type": "object",
+        "properties": {
+          "currencies": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "symbol": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_global_languages": {
+        "type": "object",
+        "properties": {
+          "languages": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_global_timezones": {
+        "type": "object",
+        "properties": {
+          "timezones": {
+            "type": "object",
+            "properties": {
+              "Africa": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "America": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "Asia": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "Australia": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "Europe": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "Pacific": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "UTC": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

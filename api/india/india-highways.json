@@ -1,0 +1,276 @@
+{
+  "highways": [
+    {
+      "highway": "NH 44",
+      "route": "Srinagar to Kanyakumari",
+      "length_km": 2095,
+      "key_cities": ["Srinagar", "Jammu", "Delhi", "Nagpur", "Hyderabad", "Chennai", "Kanyakumari"],
+      "states": ["Jammu & Kashmir", "Punjab", "Haryana", "Uttar Pradesh", "Madhya Pradesh", "Maharashtra", "Telangana", "Andhra Pradesh", "Tamil Nadu"],
+      "description": "The longest North-South highway in India."
+    },
+    {
+      "highway": "NH 48",
+      "route": "Delhi to Chennai",
+      "length_km": 2160,
+      "key_cities": ["Delhi", "Jaipur", "Ahmedabad", "Mumbai", "Pune", "Bangalore", "Chennai"],
+      "states": ["Delhi", "Haryana", "Rajasthan", "Gujarat", "Maharashtra", "Karnataka", "Andhra Pradesh", "Tamil Nadu"],
+      "description": "Main economic artery connecting the capital to Western and Southern ports."
+    },
+    {
+      "highway": "NH 16",
+      "route": "Kolkata to Chennai",
+      "length_km": 1739,
+      "key_cities": ["Kolkata", "Bhubaneswar", "Visakhapatnam", "Vijayawada", "Chennai"],
+      "states": ["West Bengal", "Odisha", "Andhra Pradesh", "Tamil Nadu"],
+      "description": "Primary East Coast highway."
+    },
+    {
+      "highway": "NH 27",
+      "route": "Porbandar to Silchar",
+      "length_km": 2000,
+      "key_cities": ["Porbandar", "Rajkot", "Ahmedabad", "Jhansi", "Prayagraj", "Guwahati", "Silchar"],
+      "states": ["Gujarat", "Rajasthan", "Madhya Pradesh", "Uttar Pradesh", "Bihar", "West Bengal", "Assam"],
+      "description": "The primary East-West corridor connecting the Arabian Sea to the East."
+    },
+    {
+      "highway": "NH 66",
+      "route": "Panvel to Kanyakumari",
+      "length_km": 1600,
+      "key_cities": ["Panvel", "Goa", "Mangalore", "Kochi", "Trivandrum", "Kanyakumari"],
+      "states": ["Maharashtra", "Goa", "Karnataka", "Kerala", "Tamil Nadu"],
+      "description": "Main West Coast highway."
+    },
+    {
+      "highway": "NH 1",
+      "route": "Delhi to Attari",
+      "length_km": 230,
+      "key_cities": ["Delhi", "Amritsar", "Attari"],
+      "states": ["Delhi", "Haryana", "Punjab"],
+      "description": "Route to the Wagah border."
+    },
+    {
+      "highway": "NH 2",
+      "route": "Delhi to Kolkata",
+      "length_km": 1450,
+      "key_cities": ["Delhi", "Kanpur", "Prayagraj", "Varanasi", "Kolkata"],
+      "states": ["Delhi", "Uttar Pradesh", "Bihar", "West Bengal"],
+      "description": "Major North-East connector."
+    },
+    {
+      "highway": "NH 4",
+      "route": "Mumbai to Chennai",
+      "length_km": 1280,
+      "key_cities": ["Mumbai", "Pune", "Belgaum", "Bangalore", "Chennai"],
+      "states": ["Maharashtra", "Karnataka", "Andhra Pradesh", "Tamil Nadu"],
+      "description": "Key link in the Golden Quadrilateral."
+    },
+    {
+      "highway": "NH 10",
+      "route": "Siliguri to Gangtok",
+      "length_km": 115,
+      "key_cities": ["Siliguri", "Gangtok"],
+      "states": ["West Bengal", "Sikkim"],
+      "description": "Lifeline of Sikkim."
+    },
+    {
+      "highway": "NH 15",
+      "route": "Jamnagar to Leh",
+      "length_km": 1200,
+      "key_cities": ["Jamnagar", "Bhuj", "Patan", "Srinagar", "Leh"],
+      "states": ["Gujarat", "Rajasthan", "Punjab", "Jammu & Kashmir", "Ladakh"],
+      "description": "Connects the west coast to the high altitude border regions."
+    },
+    {
+      "highway": "NH 24",
+      "route": "Delhi to Lucknow",
+      "length_km": 550,
+      "key_cities": ["Delhi", "Hapur", "Bareilly", "Lucknow"],
+      "states": ["Delhi", "Uttar Pradesh"],
+      "description": "Important route to the heart of Uttar Pradesh."
+    },
+    {
+      "highway": "NH 40",
+      "route": "Kanyakumari to Tuticorin",
+      "length_km": 200,
+      "key_cities": ["Kanyakumari", "Tirunelveli", "Tuticorin"],
+      "states": ["Tamil Nadu"],
+      "description": "Connects the southern tip to major ports."
+    },
+    {
+      "highway": "NH 52",
+      "route": "Sangrur to Kanyakumari",
+      "length_km": 2500,
+      "key_cities": ["Sangrur", "Indore", "Hyderabad", "Bangalore", "Kanyakumari"],
+      "states": ["Punjab", "Haryana", "Rajasthan", "MP", "Maharashtra", "Telangana", "Andhra Pradesh", "Karnataka", "Tamil Nadu"],
+      "description": "Interior North-South corridor."
+    },
+    {
+      "highway": "NH 60",
+      "route": "Kochi to Tuticorin",
+      "length_km": 350,
+      "key_cities": ["Kochi", "Trivandrum", "Tuticorin"],
+      "states": ["Kerala", "Tamil Nadu"],
+      "description": "Connects the southern coast's major hubs."
+    },
+    {
+      "highway": "NH 7",
+      "route": "Delhi to Kanyakumari",
+      "length_km": 2000,
+      "key_cities": ["Delhi", "Nagpur", "Hyderabad", "Bangalore", "Kanyakumari"],
+      "states": ["Delhi", "UP", "MP", "Maharashtra", "Telangana", "Andhra Pradesh", "Tamil Nadu"],
+      "description": "Historic North-South artery (largely integrated into NH 44)."
+    },
+    {
+      "highway": "NH 8",
+      "route": "Delhi to Ahmedabad",
+      "length_km": 950,
+      "key_cities": ["Delhi", "Jaipur", "Abu Road", "Ahmedabad"],
+      "states": ["Delhi", "Haryana", "Rajasthan", "Gujarat"],
+      "description": "Main route to the Western ports."
+    },
+    {
+      "highway": "NH 11",
+      "route": "Hanumangarh to Jaipur",
+      "length_km": 300,
+      "key_cities": ["Hanumangarh", "Sriganganagar", "Jaipur"],
+      "states": ["Punjab", "Rajasthan"],
+      "description": "Connects the fertile plains of Punjab to the capital of Rajasthan."
+    },
+    {
+      "highway": "NH 12",
+      "route": "Kolkata to Siliguri",
+      "length_km": 580,
+      "key_cities": ["Kolkata", "Malda", "Siliguri"],
+      "states": ["West Bengal"],
+      "description": "Critical link to North Bengal and the Northeast."
+    },
+    {
+      "highway": "NH 13",
+      "route": "Kanpur to Chennai",
+      "length_km": 1600,
+      "key_cities": ["Kanpur", "Nagpur", "Hyderabad", "Chennai"],
+      "states": ["Uttar Pradesh", "Madhya Pradesh", "Maharashtra", "Telangana", "Andhra Pradesh", "Tamil Nadu"],
+      "description": "Connects central India to the southeast coast."
+    },
+    {
+      "highway": "NH 17",
+      "route": "Panvel to Kanyakumari",
+      "length_km": 1600,
+      "key_cities": ["Panvel", "Goa", "Mangalore", "Kochi", "Kanyakumari"],
+      "states": ["Maharashtra", "Goa", "Karnataka", "Kerala", "Tamil Nadu"],
+      "description": "Original designation of the West Coast highway (now NH 66)."
+    },
+    {
+      "highway": "NH 21",
+      "route": "Delhi to Chandigarh",
+      "length_km": 250,
+      "key_cities": ["Delhi", "Ambala", "Chandigarh"],
+      "states": ["Delhi", "Haryana", "Punjab", "Chandigarh"],
+      "description": "Connects the capital to the planned city of Chandigarh."
+    },
+    {
+      "highway": "NH 26",
+      "route": "Pune to Sagar",
+      "length_km": 600,
+      "key_cities": ["Pune", "Aurangabad", "Jalgaon", "Sagar"],
+      "states": ["Maharashtra", "Madhya Pradesh"],
+      "description": "Cross-country route from the west coast to central India."
+    },
+    {
+      "highway": "NH 30",
+      "route": "Raipur to Chennai",
+      "length_km": 1100,
+      "key_cities": ["Raipur", "Jagdalpur", "Vijayawada", "Chennai"],
+      "states": ["Chhattisgarh", "Andhra Pradesh", "Tamil Nadu"],
+      "description": "Connects the mineral-rich east to the southern ports."
+    },
+    {
+      "highway": "NH 33",
+      "route": "Ranchi to Kolkata",
+      "length_km": 400,
+      "key_cities": ["Ranchi", "Purulia", "Kolkata"],
+      "states": ["Jharkhand", "West Bengal"],
+      "description": "Key link between the plateau and the coast."
+    },
+    {
+      "highway": "NH 38",
+      "route": "Kochi to Salem",
+      "length_km": 400,
+      "key_cities": ["Kochi", "Palakkad", "Salem"],
+      "states": ["Kerala", "Tamil Nadu"],
+      "description": "Important cross-state route in the South."
+    },
+    {
+      "highway": "NH 44A",
+      "route": "Regional branch of NH 44",
+      "length_km": 150,
+      "key_cities": ["Various"],
+      "states": ["Varies"],
+      "description": "Secondary connector supporting the main North-South axis."
+    },
+    {
+      "highway": "NH 50",
+      "route": "Vijayawada to Guntur",
+      "length_km": 100,
+      "key_cities": ["Vijayawada", "Guntur"],
+      "states": ["Andhra Pradesh"],
+      "description": "High-traffic urban corridor in Andhra Pradesh."
+    },
+    {
+      "highway": "NH 53",
+      "route": "Hazaribagh to Raipur",
+      "length_km": 600,
+      "key_cities": ["Hazaribagh", "Ranchi", "Raipur"],
+      "states": ["Jharkhand", "Chhattisgarh"],
+      "description": "Key East-West link in central India."
+    },
+    {
+      "highway": "NH 60",
+      "route": "Kochi to Tuticorin",
+      "length_km": 350,
+      "key_cities": ["Kochi", "Trivandrum", "Tuticorin"],
+      "states": ["Kerala", "Tamil Nadu"],
+      "description": "Southern coast connectivity."
+    },
+    {
+      "highway": "NH 65",
+      "route": "Pune to Hyderabad",
+      "length_km": 530,
+      "key_cities": ["Pune", "Solapur", "Hyderabad"],
+      "states": ["Maharashtra", "Telangana"],
+      "description": "Crucial link between two of India's largest IT hubs."
+    },
+    {
+      "highway": "NH 79",
+      "route": "Ahmedabad to Udaipur",
+      "length_km": 260,
+      "key_cities": ["Ahmedabad", "Udaipur"],
+      "states": ["Gujarat", "Rajasthan"],
+      "description": "Major tourism and trade route."
+    },
+    {
+      "highway": "NH 88",
+      "route": "Gujarat border to Maharashtra",
+      "length_km": 400,
+      "key_cities": ["Various"],
+      "states": ["Gujarat", "Maharashtra"],
+      "description": "Regional connector in the west."
+    },
+    {
+      "highway": "NH 94",
+      "route": "Srinagar to Leh",
+      "length_km": 420,
+      "key_cities": ["Srinagar", "Kargil", "Leh"],
+      "states": ["Jammu & Kashmir", "Ladakh"],
+      "description": "Strategic high-altitude route."
+    },
+    {
+      "highway": "NH 965",
+      "route": "Regional Connector",
+      "length_km": 200,
+      "key_cities": ["Various"],
+      "states": ["Various"],
+      "description": "Modern re-numbered secondary highway."
+    }
+  ]
+}

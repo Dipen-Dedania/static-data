@@ -1,0 +1,74 @@
+{
+  "currency": [
+    {
+      "denomination": "₹1",
+      "type": "Coin",
+      "status": "Active",
+      "material": "Ferritic Stainless Steel / Nickel-Brass",
+      "description": "Smallest active currency unit in India."
+    },
+    {
+      "denomination": "₹2",
+      "type": "Coin",
+      "status": "Active",
+      "material": "Ferritic Stainless Steel",
+      "description": "Standard low-value coin."
+    },
+    {
+      "denomination": "₹5",
+      "type": "Coin",
+      "status": "Active",
+      "material": "Nickel-Brass",
+      "description": "Widely used coin for small transactions."
+    },
+    {
+      "denomination": "₹10",
+      "type": "Coin",
+      "status": "Active",
+      "material": "Bimetallic (Nickel-Brass center, Stainless Steel ring)",
+      "description": "Highest value coin currently in circulation."
+    },
+    {
+      "denomination": "₹10",
+      "type": "Note",
+      "status": "Active",
+      "description": "Chocolate Brown color; used alongside the coin."
+    },
+    {
+      "denomination": "₹20",
+      "type": "Note",
+      "status": "Active",
+      "description": "Greenish-yellow color; introduced in the Mahatma Gandhi (New) Series."
+    },
+    {
+      "denomination": "₹50",
+      "type": "Note",
+      "status": "Active",
+      "description": "Fluorescent blue color."
+    },
+    {
+      "denomination": "₹100",
+      "type": "Note",
+      "status": "Active",
+      "description": "Lavender color."
+    },
+    {
+      "denomination": "₹200",
+      "type": "Note",
+      "status": "Active",
+      "description": "Bright yellow color; introduced in 2018."
+    },
+    {
+      "denomination": "₹500",
+      "type": "Note",
+      "status": "Active",
+      "description": "Stone grey color; the highest value note in circulation."
+    },
+    {
+      "denomination": "₹2000",
+      "type": "Note",
+      "status": "Withdrawn",
+      "description": "Magenta color; withdrawn from circulation in 2023."
+    }
+  ]
+}
