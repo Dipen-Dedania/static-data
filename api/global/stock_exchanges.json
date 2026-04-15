@@ -1,0 +1,14 @@
+{
+  "stock_exchanges": [
+    { "mic": "XNYS", "name": "New York Stock Exchange", "city": "New York", "country_code": "US" },
+    { "mic": "XNAS", "name": "Nasdaq", "city": "New York", "country_code": "US" },
+    { "mic": "XLON", "name": "London Stock Exchange", "city": "London", "country_code": "GB" },
+    { "mic": "XFRA", "name": "Frankfurt Stock Exchange", "city": "Frankfurt", "country_code": "DE" },
+    { "mic": "XPAR", "name": "Euronext Paris", "city": "Paris", "country_code": "FR" },
+    { "mic": "XHKG", "name": "Hong Kong Stock Exchange", "city": "Hong Kong", "country_code": "HK" },
+    { "mic": "XSHA", "name": "Shanghai Stock Exchange", "city": "Shanghai", "country_code": "CN" },
+    { "mic": "XNSE", "name": "National Stock Exchange of India", "city": "Mumbai", "country_code": "IN" },
+    { "mic": "XTKS", "name": "Tokyo Stock Exchange", "city": "Tokyo", "country_code": "JP" },
+    { "mic": "XASX", "name": "Australian Securities Exchange", "city": "Sydney", "country_code": "AU" }
+  ]
+}

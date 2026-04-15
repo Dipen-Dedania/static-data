@@ -1,0 +1,12 @@
+{
+  "units": [
+    { "system": "Metric", "unit": "Kilogram", "symbol": "kg", "description": "Mass" },
+    { "system": "Metric", "unit": "Meter", "symbol": "m", "description": "Length" },
+    { "system": "Metric", "unit": "Liter", "symbol": "L", "description": "Volume" },
+    { "system": "Metric", "unit": "Celsius", "symbol": "°C", "description": "Temperature" },
+    { "system": "Imperial", "unit": "Pound", "symbol": "lb", "description": "Mass" },
+    { "system": "Imperial", "unit": "Foot", "symbol": "ft", "description": "Length" },
+    { "system": "Imperial", "unit": "Gallon", "symbol": "gal", "description": "Volume" },
+    { "system": "Imperial", "unit": "Fahrenheit", "symbol": "°F", "description": "Temperature" }
+  ]
+}

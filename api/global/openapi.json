@@ -25,6 +25,161 @@
     }
   ],
   "paths": {
+    "/api/global/calling_codes.json": {
+      "get": {
+        "tags": [
+          "global"
+        ],
+        "summary": "Calling Codes",
+        "description": "Returns the full Calling Codes dataset as a JSON array.",
+        "operationId": "get_global_calling_codes",
+        "responses": {
+          "200": {
+            "description": "Successful response with Calling Codes data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_global_calling_codes"
+                },
+                "example": {
+                  "calling_codes": [
+                    {
+                      "country_code": "AF",
+                      "code": "93",
+                      "name": "Afghanistan"
+                    },
+                    {
+                      "country_code": "AL",
+                      "code": "355",
+                      "name": "Albania"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/global/capitals.json": {
+      "get": {
+        "tags": [
+          "global"
+        ],
+        "summary": "Capitals",
+        "description": "Returns the full Capitals dataset as a JSON array.",
+        "operationId": "get_global_capitals",
+        "responses": {
+          "200": {
+            "description": "Successful response with Capitals data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_global_capitals"
+                },
+                "example": {
+                  "capitals": [
+                    {
+                      "country_code": "AF",
+                      "name": "Kabul"
+                    },
+                    {
+                      "country_code": "AL",
+                      "name": "Tirana"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/global/continents.json": {
+      "get": {
+        "tags": [
+          "global"
+        ],
+        "summary": "Continents",
+        "description": "Returns the full Continents dataset as a JSON array.",
+        "operationId": "get_global_continents",
+        "responses": {
+          "200": {
+            "description": "Successful response with Continents data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_global_continents"
+                },
+                "example": {
+                  "continents": [
+                    {
+                      "name": "Africa",
+                      "code": "AF"
+                    },
+                    {
+                      "name": "Asia",
+                      "code": "AS"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
     "/api/global/country.json": {
       "get": {
         "tags": [
@@ -129,6 +284,59 @@
         }
       }
     },
+    "/api/global/date_formats.json": {
+      "get": {
+        "tags": [
+          "global"
+        ],
+        "summary": "Date Formats",
+        "description": "Returns the full Date Formats dataset as a JSON array.",
+        "operationId": "get_global_date_formats",
+        "responses": {
+          "200": {
+            "description": "Successful response with Date Formats data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_global_date_formats"
+                },
+                "example": {
+                  "date_formats": [
+                    {
+                      "country_code": "US",
+                      "format": "MM/DD/YYYY",
+                      "example": "12/31/2023"
+                    },
+                    {
+                      "country_code": "GB",
+                      "format": "DD/MM/YYYY",
+                      "example": "31/12/2023"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
     "/api/global/languages.json": {
       "get": {
         "tags": [
@@ -168,6 +376,229 @@
                     {
                       "code": "sq",
                       "name": "Albanian"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/global/regions.json": {
+      "get": {
+        "tags": [
+          "global"
+        ],
+        "summary": "Regions",
+        "description": "Returns the full Regions dataset as a JSON array.",
+        "operationId": "get_global_regions",
+        "responses": {
+          "200": {
+            "description": "Successful response with Regions data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_global_regions"
+                },
+                "example": {
+                  "regions": [
+                    {
+                      "name": "Northern Africa",
+                      "code": "002"
+                    },
+                    {
+                      "name": "Sub-Saharan Africa",
+                      "code": "003"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/global/scripts.json": {
+      "get": {
+        "tags": [
+          "global"
+        ],
+        "summary": "Scripts",
+        "description": "Returns the full Scripts dataset as a JSON array.",
+        "operationId": "get_global_scripts",
+        "responses": {
+          "200": {
+            "description": "Successful response with Scripts data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_global_scripts"
+                },
+                "example": {
+                  "scripts": [
+                    {
+                      "name": "Latin",
+                      "code": "Latn",
+                      "languages": [
+                        "en",
+                        "fr",
+                        "es",
+                        "de",
+                        "it"
+                      ]
+                    },
+                    {
+                      "name": "Cyrillic",
+                      "code": "Cyrl",
+                      "languages": [
+                        "ru",
+                        "bg",
+                        "sr",
+                        "uk"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/global/stock_exchanges.json": {
+      "get": {
+        "tags": [
+          "global"
+        ],
+        "summary": "Stock Exchanges",
+        "description": "Returns the full Stock Exchanges dataset as a JSON array.",
+        "operationId": "get_global_stock_exchanges",
+        "responses": {
+          "200": {
+            "description": "Successful response with Stock Exchanges data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_global_stock_exchanges"
+                },
+                "example": {
+                  "stock_exchanges": [
+                    {
+                      "mic": "XNYS",
+                      "name": "New York Stock Exchange",
+                      "city": "New York",
+                      "country_code": "US"
+                    },
+                    {
+                      "mic": "XNAS",
+                      "name": "Nasdaq",
+                      "city": "New York",
+                      "country_code": "US"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/global/tax_rates.json": {
+      "get": {
+        "tags": [
+          "global"
+        ],
+        "summary": "Tax Rates",
+        "description": "Returns the full Tax Rates dataset as a JSON array.",
+        "operationId": "get_global_tax_rates",
+        "responses": {
+          "200": {
+            "description": "Successful response with Tax Rates data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_global_tax_rates"
+                },
+                "example": {
+                  "tax_rates": [
+                    {
+                      "country_code": "US",
+                      "rate": "Variable",
+                      "type": "Sales Tax"
+                    },
+                    {
+                      "country_code": "GB",
+                      "rate": "20%",
+                      "type": "VAT"
                     }
                   ]
                 }
@@ -322,10 +753,178 @@
           }
         }
       }
+    },
+    "/api/global/tlds.json": {
+      "get": {
+        "tags": [
+          "global"
+        ],
+        "summary": "Tlds",
+        "description": "Returns the full Tlds dataset as a JSON array.",
+        "operationId": "get_global_tlds",
+        "responses": {
+          "200": {
+            "description": "Successful response with Tlds data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_global_tlds"
+                },
+                "example": {
+                  "tlds": [
+                    {
+                      "country_code": "AF",
+                      "tld": ".af",
+                      "name": "Afghanistan"
+                    },
+                    {
+                      "country_code": "AL",
+                      "tld": ".al",
+                      "name": "Albania"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
+    },
+    "/api/global/units.json": {
+      "get": {
+        "tags": [
+          "global"
+        ],
+        "summary": "Units",
+        "description": "Returns the full Units dataset as a JSON array.",
+        "operationId": "get_global_units",
+        "responses": {
+          "200": {
+            "description": "Successful response with Units data",
+            "headers": {
+              "Content-Type": {
+                "schema": {
+                  "type": "string",
+                  "example": "application/json"
+                }
+              },
+              "Access-Control-Allow-Origin": {
+                "schema": {
+                  "type": "string",
+                  "example": "*"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/get_global_units"
+                },
+                "example": {
+                  "units": [
+                    {
+                      "system": "Metric",
+                      "unit": "Kilogram",
+                      "symbol": "kg",
+                      "description": "Mass"
+                    },
+                    {
+                      "system": "Metric",
+                      "unit": "Meter",
+                      "symbol": "m",
+                      "description": "Length"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Resource not found"
+          }
+        }
+      }
     }
   },
   "components": {
     "schemas": {
+      "get_global_calling_codes": {
+        "type": "object",
+        "properties": {
+          "calling_codes": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "country_code": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_global_capitals": {
+        "type": "object",
+        "properties": {
+          "capitals": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "country_code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_global_continents": {
+        "type": "object",
+        "properties": {
+          "continents": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
       "get_global_country": {
         "type": "object",
         "properties": {
@@ -367,6 +966,28 @@
           }
         }
       },
+      "get_global_date_formats": {
+        "type": "object",
+        "properties": {
+          "date_formats": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "country_code": {
+                  "type": "string"
+                },
+                "format": {
+                  "type": "string"
+                },
+                "example": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
       "get_global_languages": {
         "type": "object",
         "properties": {
@@ -379,6 +1000,97 @@
                   "type": "string"
                 },
                 "name": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_global_regions": {
+        "type": "object",
+        "properties": {
+          "regions": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_global_scripts": {
+        "type": "object",
+        "properties": {
+          "scripts": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "code": {
+                  "type": "string"
+                },
+                "languages": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_global_stock_exchanges": {
+        "type": "object",
+        "properties": {
+          "stock_exchanges": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "mic": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "city": {
+                  "type": "string"
+                },
+                "country_code": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_global_tax_rates": {
+        "type": "object",
+        "properties": {
+          "tax_rates": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "country_code": {
+                  "type": "string"
+                },
+                "rate": {
+                  "type": "string"
+                },
+                "type": {
                   "type": "string"
                 }
               }
@@ -431,6 +1143,53 @@
               "UTC": {
                 "type": "array",
                 "items": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_global_tlds": {
+        "type": "object",
+        "properties": {
+          "tlds": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "country_code": {
+                  "type": "string"
+                },
+                "tld": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get_global_units": {
+        "type": "object",
+        "properties": {
+          "units": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "system": {
+                  "type": "string"
+                },
+                "unit": {
+                  "type": "string"
+                },
+                "symbol": {
+                  "type": "string"
+                },
+                "description": {
                   "type": "string"
                 }
               }

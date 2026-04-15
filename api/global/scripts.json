@@ -1,0 +1,12 @@
+{
+  "scripts": [
+    { "name": "Latin", "code": "Latn", "languages": ["en", "fr", "es", "de", "it"] },
+    { "name": "Cyrillic", "code": "Cyrl", "languages": ["ru", "bg", "sr", "uk"] },
+    { "name": "Arabic", "code": "Arab", "languages": ["ar", "fa", "ur"] },
+    { "name": "Devanagari", "code": "Deva", "languages": ["hi", "ne", "mr"] },
+    { "name": "Han", "code": "Hani", "languages": ["zh", "ja", "ko"] },
+    { "name": "Greek", "code": "Grek", "languages": ["el"] },
+    { "name": "Hebrew", "code": "Hebr", "languages": ["he"] },
+    { "name": "Thai", "code": "Thai", "languages": ["th"] }
+  ]
+}

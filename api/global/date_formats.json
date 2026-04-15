@@ -1,0 +1,12 @@
+{
+  "date_formats": [
+    { "country_code": "US", "format": "MM/DD/YYYY", "example": "12/31/2023" },
+    { "country_code": "GB", "format": "DD/MM/YYYY", "example": "31/12/2023" },
+    { "country_code": "CN", "format": "YYYY/MM/DD", "example": "2023/12/31" },
+    { "country_code": "JP", "format": "YYYY/MM/DD", "example": "2023/12/31" },
+    { "country_code": "FR", "format": "DD/MM/YYYY", "example": "31/12/2023" },
+    { "country_code": "DE", "format": "DD.MM.YYYY", "example": "31.12.2023" },
+    { "country_code": "IN", "format": "DD-MM-YYYY", "example": "31-12-2023" },
+    { "country_code": "RU", "format": "DD.MM.YYYY", "example": "31.12.2023" }
+  ]
+}

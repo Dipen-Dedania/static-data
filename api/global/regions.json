@@ -1,0 +1,19 @@
+{
+  "regions": [
+    { "name": "Northern Africa", "code": "002" },
+    { "name": "Sub-Saharan Africa", "code": "003" },
+    { "name": "Central Asia", "code": "004" },
+    { "name": "Eastern Asia", "code": "005" },
+    { "name": "South-Eastern Asia", "code": "006" },
+    { "name": "Southern Asia", "code": "007" },
+    { "name": "Western Asia", "code": "008" },
+    { "name": "Eastern Europe", "code": "009" },
+    { "name": "Northern Europe", "code": "010" },
+    { "name": "Southern Europe", "code": "011" },
+    { "name": "Western Europe", "code": "012" },
+    { "name": "Caribbean", "code": "013" },
+    { "name": "Central America", "code": "014" },
+    { "name": "South America", "code": "015" },
+    { "name": "North America", "code": "019" }
+  ]
+}

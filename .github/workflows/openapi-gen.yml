@@ -27,6 +27,12 @@ jobs:
       - name: Run OpenAPI Generator
         run: node generate-openapi.js
 
+      - name: Publish to RapidAPI
+        env:
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+          RAPIDAPI_API_ID: ${{ secrets.RAPIDAPI_API_ID }}
+        run: node publish-openapi.js --file openapi.json
+
       - name: Check for changes
         id: git-check
         run: |

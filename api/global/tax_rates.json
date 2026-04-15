@@ -1,0 +1,12 @@
+{
+  "tax_rates": [
+    { "country_code": "US", "rate": "Variable", "type": "Sales Tax" },
+    { "country_code": "GB", "rate": "20%", "type": "VAT" },
+    { "country_code": "FR", "rate": "20%", "type": "VAT" },
+    { "country_code": "DE", "rate": "19%", "type": "VAT" },
+    { "country_code": "IN", "rate": "18%", "type": "GST" },
+    { "country_code": "CA", "rate": "5%", "type": "GST" },
+    { "country_code": "AU", "rate": "10%", "type": "GST" },
+    { "country_code": "CN", "rate": "13%", "type": "VAT" }
+  ]
+}
